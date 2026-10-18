@@ -197,7 +197,7 @@ Se incluyen ocho pruebas de integridad: mínimos y claves únicas, huellas de or
 
 ## Entrega y publicación
 
-La carpeta está preparada para un repositorio independiente. La publicación en GitHub es un paso separado y no se afirma que se haya realizado. Conserva los datos originales: forman parte de los requisitos. El CSV de Chicago supera 25 MB, por lo que conviene subir la carpeta con Git o GitHub Desktop, no mediante la carga de archivos del navegador. Los archivos individuales se mantienen por debajo de 100 MB.
+Repositorio público: [TFM_Chicago](https://github.com/javierlidonsimon-svg/TFM_Chicago), publicado el 18 de octubre de 2026. Conserva los datos originales: forman parte de los requisitos. El CSV de Chicago supera 25 MB, por lo que conviene subir la carpeta con Git o GitHub Desktop, no mediante la carga de archivos del navegador. Los archivos individuales se mantienen por debajo de 100 MB.
 
 Consulta docs/requisitos.md para distinguir los requisitos verificados de los pasos pendientes. No se ha enviado nada a ThePower.
 

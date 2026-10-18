@@ -32,4 +32,4 @@ Las pruebas de recálculo y las vistas se realizaron con un motor de cálculo in
 
 El PDF se ha renderizado y revisado visualmente. Los encabezados se mantienen junto al texto que introducen. Los datos originales no se han modificado.
 
-El paquete local está preparado. La publicación en GitHub y el envío a ThePower no se han realizado en esta revisión.
+El repositorio se publicó en GitHub el 18 de octubre de 2026 y se verificó su acceso público. El envío a ThePower sigue pendiente.

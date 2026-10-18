@@ -16,8 +16,8 @@ Revisión frente al enunciado y a la guía de README facilitados. Fecha: 6 de oc
 | Informe explicativo | Verificado: reports/informe.md y PDF con objetivos, metodología, resultados, conclusiones y limitaciones. |
 | README conforme a la guía | Verificado: título, descripción, estructura, instalación, reproducción, resultados, próximos pasos, contribuciones, responsable y fuentes; informe incorporado. |
 | Organización del repositorio | Verificado: data, src, reports, dashboard, docs y tests. |
-| Publicación en GitHub | Pendiente de revisión y autorización para publicar. |
+| Publicación en GitHub | Completada el 18 de octubre de 2026: https://github.com/javierlidonsimon-svg/TFM_Chicago, acceso público verificado. |
 | Programa obligatorio y proyectos previos aprobados | Pendiente de confirmación académica del alumno; no verificable con estos archivos. |
-| Entrega en ThePower | Pendiente de publicación, revisión y autorización para enviar. |
+| Entrega en ThePower | Pendiente de revisión y envío del enlace en la plataforma. |
 
 No se han añadido como requisitos una defensa oral, presentación o modelo predictivo: no aparecían en el material facilitado. No se considera completada la entrega mientras existan pasos pendientes.
