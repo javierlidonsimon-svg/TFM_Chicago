@@ -1,0 +1,29 @@
+{
+  "descarga_utc": "2026-10-05T20:26:37.547617+00:00",
+  "fuentes": [
+    {
+      "archivo": "chicago_accidentes_2024.csv",
+      "url": "https://data.cityofchicago.org/resource/85ca-t3if.csv?%24where=crash_date+%3E%3D+%272024-01-01T00%3A00%3A00%27+AND+crash_date+%3C+%272025-01-01T00%3A00%3A00%27&%24limit=200000&%24order=crash_record_id",
+      "sha256": "eafe7e1411ee3e4ec97130370abacfd434fa7e109ff1859d4cc9f46d8702852b",
+      "bytes": 70467737
+    },
+    {
+      "archivo": "chicago_metadata.json",
+      "url": "https://data.cityofchicago.org/api/views/85ca-t3if.json",
+      "sha256": "ea92cc26511328b8039638119cbe3920c88797de314e54473343804cf3da4150",
+      "bytes": 28479
+    },
+    {
+      "archivo": "chicago_recuento.json",
+      "url": "https://data.cityofchicago.org/resource/85ca-t3if.json?%24where=crash_date+%3E%3D+%272024-01-01T00%3A00%3A00%27+AND+crash_date+%3C+%272025-01-01T00%3A00%3A00%27&%24select=count%28%2A%29",
+      "sha256": "6bb1367b17ee59c056ddf6497549a14155d024f249bac4400675e569089cde8c",
+      "bytes": 21
+    },
+    {
+      "archivo": "open_meteo_chicago_2024.json",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=41.8781&longitude=-87.6298&start_date=2024-01-01&end_date=2024-12-31&daily=temperature_2m_mean%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum%2Crain_sum%2Csnowfall_sum%2Cwind_speed_10m_max%2Cwind_gusts_10m_max&timezone=America%2FChicago&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+      "sha256": "37e9c54ac0bb9c3483a4fec615034a4c8f206bb684f15b5fb875bd4902fe6765",
+      "bytes": 19739
+    }
+  ]
+}

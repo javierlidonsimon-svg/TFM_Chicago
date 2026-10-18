@@ -1,0 +1,49 @@
+{
+  "dias": 366,
+  "dispersion_pearson": 4.8533203998557415,
+  "autocorrelacion_residuos_lag1": 0.26617916922249274,
+  "modelo_convergencia": true,
+  "diferencia_proporcion_precipitacion_seco": 0.00050054386473386,
+  "diferencia_ic95": [
+    -0.0050567517896959215,
+    0.006217324403676675
+  ],
+  "diferencia_ic95_bloques_7dias": [
+    -0.005315353419405882,
+    0.006077725624745527
+  ],
+  "modelo_meteo": [
+    {
+      "termino": "C(grupo_meteo, Treatment(reference='Seco'))[T.Nieve]",
+      "coef_log": 0.1188941867129278,
+      "razon_recuentos": 1.1262507396902903,
+      "ic95_inferior": 1.0255202273280584,
+      "ic95_superior": 1.2368753875852698,
+      "p": 0.01287831311517606,
+      "p_holm_meteo": 0.02575662623035212
+    },
+    {
+      "termino": "C(grupo_meteo, Treatment(reference='Seco'))[T.Precipitacion]",
+      "coef_log": 0.011634683751984416,
+      "razon_recuentos": 1.0117026299401057,
+      "ic95_inferior": 0.9812225955172725,
+      "ic95_superior": 1.0431294755173715,
+      "p": 0.45600403689942437,
+      "p_holm_meteo": 0.45600403689942437
+    }
+  ],
+  "contrastes": [
+    {
+      "contraste": "Kruskal-Wallis: accidentes/día por meteorología",
+      "estadistico": 4.374651365712063,
+      "p_sin_ajuste": 0.11221645006659398,
+      "p_holm": 0.11221645006659398
+    },
+    {
+      "contraste": "Spearman: precipitación y accidentes/día",
+      "estadistico": 0.13704746367889067,
+      "p_sin_ajuste": 0.008657215978507085,
+      "p_holm": 0.01731443195701417
+    }
+  ]
+}

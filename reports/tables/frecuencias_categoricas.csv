@@ -1,0 +1,88 @@
+variable,categoria,n
+weather_condition,CLEAR,87716
+weather_condition,RAIN,9232
+weather_condition,UNKNOWN,8826
+weather_condition,CLOUDY/OVERCAST,3151
+weather_condition,SNOW,2119
+weather_condition,FREEZING RAIN/DRIZZLE,372
+weather_condition,OTHER,344
+weather_condition,FOG/SMOKE/HAZE,155
+weather_condition,SLEET/HAIL,79
+weather_condition,BLOWING SNOW,55
+weather_condition,SEVERE CROSS WIND GATE,7
+weather_condition,"BLOWING SAND, SOIL, DIRT",1
+lighting_condition,DAYLIGHT,71020
+lighting_condition,"DARKNESS, LIGHTED ROAD",24053
+lighting_condition,UNKNOWN,7093
+lighting_condition,DARKNESS,5014
+lighting_condition,DUSK,2998
+lighting_condition,DAWN,1879
+roadway_surface_cond,DRY,81496
+roadway_surface_cond,UNKNOWN,14692
+roadway_surface_cond,WET,13124
+roadway_surface_cond,SNOW OR SLUSH,1982
+roadway_surface_cond,ICE,409
+roadway_surface_cond,OTHER,327
+roadway_surface_cond,"SAND, MUD, DIRT",27
+first_crash_type,PARKED MOTOR VEHICLE,24997
+first_crash_type,REAR END,22097
+first_crash_type,SIDESWIPE SAME DIRECTION,18163
+first_crash_type,TURNING,17094
+first_crash_type,ANGLE,12401
+first_crash_type,FIXED OBJECT,4816
+first_crash_type,PEDESTRIAN,3073
+first_crash_type,PEDALCYCLIST,2301
+first_crash_type,REAR TO FRONT,1819
+first_crash_type,SIDESWIPE OPPOSITE DIRECTION,1347
+first_crash_type,OTHER OBJECT,1152
+first_crash_type,REAR TO SIDE,1128
+first_crash_type,HEAD ON,926
+first_crash_type,REAR TO REAR,359
+first_crash_type,OTHER NONCOLLISION,232
+first_crash_type,ANIMAL,84
+first_crash_type,OVERTURNED,65
+first_crash_type,TRAIN,3
+prim_contributory_cause,UNABLE TO DETERMINE,45996
+prim_contributory_cause,FAILING TO YIELD RIGHT-OF-WAY,13066
+prim_contributory_cause,FOLLOWING TOO CLOSELY,9776
+prim_contributory_cause,IMPROPER OVERTAKING/PASSING,6154
+prim_contributory_cause,NOT APPLICABLE,5771
+prim_contributory_cause,FAILING TO REDUCE SPEED TO AVOID CRASH,4525
+prim_contributory_cause,DRIVING SKILLS/KNOWLEDGE/EXPERIENCE,4365
+prim_contributory_cause,IMPROPER TURNING/NO SIGNAL,4006
+prim_contributory_cause,IMPROPER LANE USAGE,3713
+prim_contributory_cause,IMPROPER BACKING,3541
+prim_contributory_cause,DISREGARDING TRAFFIC SIGNALS,2272
+prim_contributory_cause,"OPERATING VEHICLE IN ERRATIC, RECKLESS, CARELESS, NEGLIGENT OR AGGRESSIVE MANNER",1255
+prim_contributory_cause,WEATHER,1115
+prim_contributory_cause,DISREGARDING STOP SIGN,1010
+prim_contributory_cause,DRIVING ON WRONG SIDE/WRONG WAY,684
+prim_contributory_cause,DISTRACTION - FROM INSIDE VEHICLE,650
+prim_contributory_cause,EQUIPMENT - VEHICLE CONDITION,644
+prim_contributory_cause,"VISION OBSCURED (SIGNS, TREE LIMBS, BUILDINGS, ETC.)",602
+prim_contributory_cause,PHYSICAL CONDITION OF DRIVER,592
+prim_contributory_cause,UNDER THE INFLUENCE OF ALCOHOL/DRUGS (USE WHEN ARREST IS EFFECTED),448
+prim_contributory_cause,DISTRACTION - FROM OUTSIDE VEHICLE,342
+prim_contributory_cause,DISREGARDING OTHER TRAFFIC SIGNS,217
+prim_contributory_cause,ROAD ENGINEERING/SURFACE/MARKING DEFECTS,178
+prim_contributory_cause,"EVASIVE ACTION DUE TO ANIMAL, OBJECT, NONMOTORIST",177
+prim_contributory_cause,ROAD CONSTRUCTION/MAINTENANCE,170
+prim_contributory_cause,DISREGARDING ROAD MARKINGS,142
+prim_contributory_cause,CELL PHONE USE OTHER THAN TEXTING,129
+prim_contributory_cause,RELATED TO BUS STOP,109
+prim_contributory_cause,TURNING RIGHT ON RED,94
+prim_contributory_cause,ANIMAL,93
+prim_contributory_cause,HAD BEEN DRINKING (USE WHEN ARREST IS NOT MADE),82
+prim_contributory_cause,"DISTRACTION - OTHER ELECTRONIC DEVICE (NAVIGATION DEVICE, DVD PLAYER, ETC.)",55
+prim_contributory_cause,TEXTING,33
+prim_contributory_cause,PASSING STOPPED SCHOOL BUS,15
+prim_contributory_cause,OBSTRUCTED CROSSWALKS,14
+prim_contributory_cause,DISREGARDING YIELD SIGN,12
+prim_contributory_cause,BICYCLE ADVANCING LEGALLY ON RED LIGHT,9
+prim_contributory_cause,MOTORCYCLE ADVANCING LEGALLY ON RED LIGHT,1
+most_severe_injury,NO INDICATION OF INJURY,93363
+most_severe_injury,NONINCAPACITATING INJURY,9968
+most_severe_injury,"REPORTED, NOT EVIDENT",6736
+most_severe_injury,INCAPACITATING INJURY,1628
+most_severe_injury,No consta,251
+most_severe_injury,FATAL,111

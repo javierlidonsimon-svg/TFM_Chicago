@@ -1,0 +1,22 @@
+{
+  "filas_originales": 112057,
+  "columnas_originales": 49,
+  "duplicados_exactos": 0,
+  "excluidas_fecha_o_id": 0,
+  "limite_velocidad_no_valido": 194,
+  "coordenadas_ausentes_o_fuera_envolvente": 7,
+  "lesiones_negativas": 0,
+  "avisos_anteriores_accidente": 0,
+  "discrepancias_suma_lesiones": 0,
+  "sin_correspondencia_meteo": 0,
+  "filas_finales": 112057,
+  "columnas_finales": 55,
+  "dias_meteorologia": 366,
+  "lesion_desconocida": 249,
+  "coordenadas_meteo_respuesta": {
+    "latitude": 42.0,
+    "longitude": -87.75,
+    "elevation": 241.0,
+    "timezone": "America/Chicago"
+  }
+}

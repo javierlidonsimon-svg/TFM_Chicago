@@ -1,0 +1,49 @@
+{
+  "accidentes": 112057,
+  "columnas": 55,
+  "con_lesiones": 18443,
+  "lesion_conocida": 111808,
+  "personas_lesionadas_incluye_mortales": 25706,
+  "fallecidos": 123,
+  "mes_max": 5,
+  "hora_max": 15,
+  "via_max": "S WESTERN AVE",
+  "meteo": [
+    {
+      "grupo_meteo": "Seco",
+      "dias": 232,
+      "accidentes": 70191,
+      "media_accidentes_dia": 302.54741379310343,
+      "mediana_accidentes_dia": 306.5,
+      "con_lesiones": 11687.0,
+      "lesion_conocida": 70043,
+      "proporcion_con_lesiones": 0.1668546464314778,
+      "ic95_inferior": 0.16352943251183152,
+      "ic95_superior": 0.17014501610592936
+    },
+    {
+      "grupo_meteo": "Precipitacion",
+      "dias": 109,
+      "accidentes": 34216,
+      "media_accidentes_dia": 313.908256880734,
+      "mediana_accidentes_dia": 313.0,
+      "con_lesiones": 5712.0,
+      "lesion_conocida": 34131,
+      "proporcion_con_lesiones": 0.16735519029621165,
+      "ic95_inferior": 0.16278996276626645,
+      "ic95_superior": 0.17205844206170826
+    },
+    {
+      "grupo_meteo": "Nieve",
+      "dias": 25,
+      "accidentes": 7650,
+      "media_accidentes_dia": 306.0,
+      "mediana_accidentes_dia": 297.0,
+      "con_lesiones": 1044.0,
+      "lesion_conocida": 7634,
+      "proporcion_con_lesiones": 0.13675661514278228,
+      "ic95_inferior": 0.12669535698324713,
+      "ic95_superior": 0.14655651827444668
+    }
+  ]
+}

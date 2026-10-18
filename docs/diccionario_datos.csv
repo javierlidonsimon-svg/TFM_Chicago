@@ -1,0 +1,56 @@
+variable,tipo,origen,definicion
+crash_record_id,string,City of Chicago,This number can be used to link to the same crash in the Vehicles and People datasets. This number also serves as a unique ID in this dataset.
+crash_date,datetime64[us],City of Chicago,Date and time of crash as entered by the reporting officer
+crash_date_est_i,str,City of Chicago,Crash date estimated by desk officer or reporting party (only used in cases where crash is reported at police station days after the crash)
+posted_speed_limit,Int64,City of Chicago,"Posted speed limit, as determined by reporting officer"
+traffic_control_device,string,City of Chicago,"Traffic control device present at crash location, as determined by reporting officer"
+device_condition,string,City of Chicago,"Condition of traffic control device, as determined by reporting officer"
+weather_condition,string,City of Chicago,"Weather condition at time of crash, as determined by reporting officer"
+lighting_condition,string,City of Chicago,"Light condition at time of crash, as determined by reporting officer"
+first_crash_type,string,City of Chicago,Type of first collision in crash
+trafficway_type,string,City of Chicago,"Trafficway type, as determined by reporting officer"
+alignment,string,City of Chicago,"Street alignment at crash location, as determined by reporting officer"
+roadway_surface_cond,string,City of Chicago,"Road surface condition, as determined by reporting officer"
+road_defect,string,City of Chicago,"Road defects, as determined by reporting officer"
+report_type,string,City of Chicago,"Administrative report type (at scene, at desk, amended)"
+crash_type,string,City of Chicago,A general severity classification for the crash. Can be either Injury and/or Tow Due to Crash or No Injury / Drive Away 
+intersection_related_i,str,City of Chicago,A field observation by the police officer whether an intersection played a role in the crash. Does not represent whether or not the crash occurred within the intersection.
+private_property_i,str,City of Chicago,Whether the crash begun or first contact was made outside of the public right-of-way.
+hit_and_run_i,str,City of Chicago,Crash did/did not involve a driver who caused the crash and fled the scene without exchanging information and/or rendering aid
+damage,string,City of Chicago,A field observation of estimated damage.
+date_police_notified,datetime64[us],City of Chicago,Calendar date on which police were notified of the crash
+prim_contributory_cause,string,City of Chicago,"The factor which was most significant in causing the crash, as determined by officer judgment"
+sec_contributory_cause,string,City of Chicago,"The factor which was second most significant in causing the crash, as determined by officer judgment"
+street_direction,string,City of Chicago,"Street address direction (N,E,S,W) of crash location, as determined by reporting officer"
+street_name,string,City of Chicago,"Street address name of crash location, as determined by reporting officer"
+beat_of_occurrence,string,City of Chicago,Chicago Police Department Beat ID. Boundaries available at https://data.cityofchicago.org/d/aerh-rz74
+num_units,Float64,City of Chicago,"Number of units involved in the crash. A unit can be a motor vehicle, a pedestrian, a bicyclist, or another non-passenger roadway user. Each unit represents a mode of traffic with an independent trajectory. "
+most_severe_injury,string,City of Chicago,Most severe injury sustained by any person involved in the crash
+injuries_total,Float64,City of Chicago,"Total persons sustaining fatal, incapacitating, non-incapacitating, and possible injuries as determined by the reporting officer"
+injuries_fatal,Int64,City of Chicago,Total persons sustaining fatal injuries in the crash
+injuries_incapacitating,Int64,City of Chicago,"Total persons sustaining incapacitating/serious injuries in the crash as determined by the reporting officer. Any injury other than fatal injury, which prevents the injured person from walking, driving, or normally continuing the activities they were capable of performing before the injury occurred. Includes severe lacerations, broken limbs, skull or chest injuries, and abdominal injuries."
+injuries_non_incapacitating,Int64,City of Chicago,"Total persons sustaining non-incapacitating injuries in the crash as determined by the reporting officer. Any injury, other than fatal or incapacitating injury, which is evident to observers at the scene of the crash. Includes lump on head, abrasions, bruises, and minor lacerations."
+injuries_reported_not_evident,Int64,City of Chicago,"Total persons sustaining possible injuries in the crash as determined by the reporting officer. Includes momentary unconsciousness, claims of injuries not evident, limping, complaint of pain, nausea, and hysteria."
+injuries_no_indication,Int64,City of Chicago,Total persons sustaining no injuries in the crash as determined by the reporting officer
+injuries_unknown,Int64,City of Chicago,"Total persons for whom injuries sustained, if any, are unknown"
+latitude,Float64,City of Chicago,"The latitude of the crash location, as determined by reporting officer, as derived from the reported address of crash"
+longitude,Float64,City of Chicago,"The longitude of the crash location, as determined by reporting officer, as derived from the reported address of crash"
+fecha,str,Derivada,Fecha local del accidente. Clave de unión con meteorología diaria.
+mes,int32,Derivada,"Mes local (1-12), derivado de crash_date."
+hora,int32,Derivada,"Hora local (0-23), derivada de crash_date."
+dia_semana_num,int32,Derivada,Lunes=0 a domingo=6. Recalculado para evitar confundir codificación original.
+dia_semana,str,Derivada,Nombre del día local.
+via,string,Derivada,Dirección y nombre de vía. No representa un tramo homogéneo.
+con_lesiones,float64,Derivada,"1 si injuries_total>0, 0 si es cero; ausente si se desconoce. Incluye lesiones mortales."
+con_lesion_grave_o_mortal,float64,Derivada,1 si lesiones incapacitantes + mortales >0; ausente si faltan componentes.
+lesion_conocida,int64,Derivada,1 cuando injuries_total no es ausente.
+horas_hasta_aviso,float64,Derivada,"Diferencia aviso policial - accidente, en horas. Diferencias negativas pasan a ausente."
+temperature_2m_mean,float64,Open-Meteo / ERA5,"Temperatura media diaria a 2 m (°C), ERA5 vía Open-Meteo."
+temperature_2m_max,float64,Open-Meteo / ERA5,Temperatura máxima diaria a 2 m (°C).
+temperature_2m_min,float64,Open-Meteo / ERA5,Temperatura mínima diaria a 2 m (°C).
+precipitation_sum,float64,Open-Meteo / ERA5,"Precipitación total diaria (mm), incluye equivalente en agua de nieve."
+rain_sum,float64,Open-Meteo / ERA5,Lluvia diaria (mm).
+snowfall_sum,float64,Open-Meteo / ERA5,Nevada diaria (cm). No es profundidad de nieve acumulada.
+wind_speed_10m_max,float64,Open-Meteo / ERA5,Velocidad máxima diaria del viento a 10 m (km/h).
+wind_gusts_10m_max,float64,Open-Meteo / ERA5,Racha máxima diaria (km/h).
+grupo_meteo,str,Derivada,"Nieve si snowfall_sum>=0.1 cm; si no, Precipitacion si precipitation_sum>=1 mm; resto Seco. No indica tiempo exacto del accidente."

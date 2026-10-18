@@ -1,0 +1,1248 @@
+mes,grupo_meteo,dimension,categoria,accidentes,con_lesiones,lesion_conocida,personas_lesionadas,fallecidos
+1,Nieve,Hora,0,70,9.0,67,12.0,0.0
+1,Nieve,Hora,1,52,4.0,52,5.0,0.0
+1,Nieve,Hora,2,69,8.0,69,12.0,0.0
+1,Nieve,Hora,3,61,9.0,61,11.0,1.0
+1,Nieve,Hora,4,50,9.0,49,13.0,0.0
+1,Nieve,Hora,5,71,8.0,71,9.0,0.0
+1,Nieve,Hora,6,107,16.0,107,18.0,0.0
+1,Nieve,Hora,7,202,17.0,202,20.0,0.0
+1,Nieve,Hora,8,217,25.0,214,35.0,0.0
+1,Nieve,Hora,9,173,17.0,173,23.0,0.0
+1,Nieve,Hora,10,168,19.0,168,28.0,0.0
+1,Nieve,Hora,11,169,19.0,168,26.0,0.0
+1,Nieve,Hora,12,195,23.0,195,31.0,0.0
+1,Nieve,Hora,13,205,29.0,205,38.0,0.0
+1,Nieve,Hora,14,231,25.0,230,35.0,0.0
+1,Nieve,Hora,15,289,31.0,289,38.0,0.0
+1,Nieve,Hora,16,250,43.0,250,58.0,0.0
+1,Nieve,Hora,17,278,37.0,278,52.0,0.0
+1,Nieve,Hora,18,221,33.0,221,45.0,0.0
+1,Nieve,Hora,19,159,21.0,159,31.0,0.0
+1,Nieve,Hora,20,143,22.0,142,25.0,0.0
+1,Nieve,Hora,21,115,20.0,115,28.0,0.0
+1,Nieve,Hora,22,109,18.0,109,24.0,0.0
+1,Nieve,Hora,23,85,7.0,84,10.0,0.0
+1,Precipitacion,Hora,0,27,6.0,27,8.0,0.0
+1,Precipitacion,Hora,1,26,3.0,26,3.0,0.0
+1,Precipitacion,Hora,2,34,9.0,34,15.0,0.0
+1,Precipitacion,Hora,3,19,5.0,19,9.0,0.0
+1,Precipitacion,Hora,4,18,2.0,18,2.0,0.0
+1,Precipitacion,Hora,5,30,4.0,30,4.0,0.0
+1,Precipitacion,Hora,6,27,6.0,27,8.0,0.0
+1,Precipitacion,Hora,7,58,5.0,58,7.0,0.0
+1,Precipitacion,Hora,8,76,10.0,76,11.0,0.0
+1,Precipitacion,Hora,9,77,7.0,77,8.0,0.0
+1,Precipitacion,Hora,10,53,5.0,53,7.0,0.0
+1,Precipitacion,Hora,11,62,4.0,62,4.0,0.0
+1,Precipitacion,Hora,12,72,9.0,72,13.0,0.0
+1,Precipitacion,Hora,13,54,5.0,54,5.0,0.0
+1,Precipitacion,Hora,14,82,11.0,82,16.0,0.0
+1,Precipitacion,Hora,15,111,16.0,111,17.0,0.0
+1,Precipitacion,Hora,16,100,14.0,100,17.0,0.0
+1,Precipitacion,Hora,17,111,23.0,111,28.0,0.0
+1,Precipitacion,Hora,18,95,12.0,95,13.0,0.0
+1,Precipitacion,Hora,19,83,18.0,83,21.0,0.0
+1,Precipitacion,Hora,20,60,10.0,60,13.0,0.0
+1,Precipitacion,Hora,21,49,7.0,49,14.0,0.0
+1,Precipitacion,Hora,22,45,13.0,45,17.0,0.0
+1,Precipitacion,Hora,23,39,8.0,39,9.0,0.0
+1,Seco,Hora,0,68,13.0,68,16.0,0.0
+1,Seco,Hora,1,77,14.0,77,32.0,0.0
+1,Seco,Hora,2,76,20.0,76,29.0,1.0
+1,Seco,Hora,3,59,10.0,58,15.0,0.0
+1,Seco,Hora,4,34,7.0,33,7.0,0.0
+1,Seco,Hora,5,60,12.0,60,23.0,0.0
+1,Seco,Hora,6,70,8.0,70,8.0,0.0
+1,Seco,Hora,7,127,21.0,126,33.0,0.0
+1,Seco,Hora,8,187,24.0,187,31.0,1.0
+1,Seco,Hora,9,152,26.0,152,33.0,0.0
+1,Seco,Hora,10,159,20.0,159,27.0,0.0
+1,Seco,Hora,11,160,22.0,160,30.0,0.0
+1,Seco,Hora,12,186,25.0,186,41.0,0.0
+1,Seco,Hora,13,164,21.0,164,29.0,0.0
+1,Seco,Hora,14,217,26.0,217,30.0,0.0
+1,Seco,Hora,15,259,31.0,259,50.0,0.0
+1,Seco,Hora,16,191,21.0,191,27.0,1.0
+1,Seco,Hora,17,237,41.0,237,64.0,0.0
+1,Seco,Hora,18,169,23.0,168,26.0,0.0
+1,Seco,Hora,19,123,21.0,123,33.0,0.0
+1,Seco,Hora,20,123,19.0,123,23.0,0.0
+1,Seco,Hora,21,89,13.0,88,19.0,0.0
+1,Seco,Hora,22,81,19.0,81,26.0,0.0
+1,Seco,Hora,23,70,10.0,70,11.0,0.0
+2,Nieve,Hora,0,12,3.0,12,3.0,0.0
+2,Nieve,Hora,1,7,0.0,7,0.0,0.0
+2,Nieve,Hora,2,6,1.0,6,2.0,0.0
+2,Nieve,Hora,3,5,1.0,5,1.0,0.0
+2,Nieve,Hora,4,10,2.0,10,2.0,0.0
+2,Nieve,Hora,5,3,0.0,3,0.0,0.0
+2,Nieve,Hora,6,23,7.0,23,10.0,0.0
+2,Nieve,Hora,7,42,4.0,42,4.0,0.0
+2,Nieve,Hora,8,56,7.0,56,7.0,0.0
+2,Nieve,Hora,9,34,1.0,34,1.0,0.0
+2,Nieve,Hora,10,34,4.0,34,6.0,0.0
+2,Nieve,Hora,11,41,5.0,41,5.0,0.0
+2,Nieve,Hora,12,37,5.0,37,7.0,0.0
+2,Nieve,Hora,13,46,13.0,46,17.0,0.0
+2,Nieve,Hora,14,43,8.0,43,8.0,0.0
+2,Nieve,Hora,15,84,10.0,84,13.0,0.0
+2,Nieve,Hora,16,72,5.0,72,6.0,0.0
+2,Nieve,Hora,17,62,11.0,62,17.0,0.0
+2,Nieve,Hora,18,60,9.0,60,12.0,0.0
+2,Nieve,Hora,19,41,8.0,41,10.0,0.0
+2,Nieve,Hora,20,35,3.0,35,8.0,0.0
+2,Nieve,Hora,21,37,8.0,37,10.0,0.0
+2,Nieve,Hora,22,28,3.0,28,4.0,0.0
+2,Nieve,Hora,23,24,2.0,24,3.0,0.0
+2,Precipitacion,Hora,0,16,3.0,16,3.0,0.0
+2,Precipitacion,Hora,1,8,1.0,8,2.0,0.0
+2,Precipitacion,Hora,2,5,1.0,5,1.0,0.0
+2,Precipitacion,Hora,3,6,1.0,6,1.0,1.0
+2,Precipitacion,Hora,4,6,1.0,6,2.0,0.0
+2,Precipitacion,Hora,5,10,3.0,10,3.0,0.0
+2,Precipitacion,Hora,6,18,3.0,18,7.0,0.0
+2,Precipitacion,Hora,7,51,12.0,51,21.0,0.0
+2,Precipitacion,Hora,8,83,11.0,83,15.0,0.0
+2,Precipitacion,Hora,9,43,4.0,43,4.0,0.0
+2,Precipitacion,Hora,10,43,8.0,43,10.0,0.0
+2,Precipitacion,Hora,11,53,6.0,53,7.0,0.0
+2,Precipitacion,Hora,12,45,6.0,45,11.0,0.0
+2,Precipitacion,Hora,13,44,7.0,44,8.0,0.0
+2,Precipitacion,Hora,14,47,6.0,47,8.0,0.0
+2,Precipitacion,Hora,15,65,9.0,65,12.0,0.0
+2,Precipitacion,Hora,16,73,8.0,73,9.0,1.0
+2,Precipitacion,Hora,17,58,8.0,58,8.0,0.0
+2,Precipitacion,Hora,18,58,10.0,58,10.0,0.0
+2,Precipitacion,Hora,19,35,4.0,35,9.0,0.0
+2,Precipitacion,Hora,20,38,6.0,37,7.0,0.0
+2,Precipitacion,Hora,21,16,2.0,16,3.0,0.0
+2,Precipitacion,Hora,22,26,2.0,25,2.0,0.0
+2,Precipitacion,Hora,23,28,5.0,28,7.0,0.0
+2,Seco,Hora,0,146,22.0,146,30.0,0.0
+2,Seco,Hora,1,128,27.0,124,49.0,0.0
+2,Seco,Hora,2,111,23.0,110,42.0,1.0
+2,Seco,Hora,3,79,12.0,78,16.0,1.0
+2,Seco,Hora,4,87,19.0,86,22.0,0.0
+2,Seco,Hora,5,100,14.0,100,16.0,0.0
+2,Seco,Hora,6,131,23.0,129,30.0,0.0
+2,Seco,Hora,7,284,31.0,283,48.0,0.0
+2,Seco,Hora,8,350,64.0,350,90.0,2.0
+2,Seco,Hora,9,298,46.0,298,56.0,0.0
+2,Seco,Hora,10,290,44.0,290,57.0,0.0
+2,Seco,Hora,11,316,49.0,316,65.0,0.0
+2,Seco,Hora,12,375,47.0,375,63.0,0.0
+2,Seco,Hora,13,361,45.0,361,66.0,0.0
+2,Seco,Hora,14,392,67.0,392,103.0,0.0
+2,Seco,Hora,15,492,75.0,492,104.0,1.0
+2,Seco,Hora,16,443,75.0,443,105.0,0.0
+2,Seco,Hora,17,384,59.0,384,67.0,0.0
+2,Seco,Hora,18,365,64.0,365,87.0,0.0
+2,Seco,Hora,19,277,45.0,277,68.0,0.0
+2,Seco,Hora,20,208,41.0,208,53.0,1.0
+2,Seco,Hora,21,178,44.0,177,59.0,0.0
+2,Seco,Hora,22,153,20.0,153,26.0,0.0
+2,Seco,Hora,23,135,29.0,135,37.0,0.0
+3,Nieve,Hora,0,1,0.0,1,0.0,0.0
+3,Nieve,Hora,1,3,1.0,3,2.0,0.0
+3,Nieve,Hora,2,2,1.0,1,1.0,0.0
+3,Nieve,Hora,3,2,0.0,2,0.0,0.0
+3,Nieve,Hora,4,1,0.0,1,0.0,0.0
+3,Nieve,Hora,5,4,1.0,4,1.0,0.0
+3,Nieve,Hora,6,6,0.0,6,0.0,0.0
+3,Nieve,Hora,7,15,2.0,15,3.0,0.0
+3,Nieve,Hora,8,22,4.0,22,6.0,0.0
+3,Nieve,Hora,9,19,2.0,19,3.0,0.0
+3,Nieve,Hora,10,10,1.0,10,1.0,0.0
+3,Nieve,Hora,11,20,3.0,20,3.0,0.0
+3,Nieve,Hora,12,13,3.0,13,4.0,0.0
+3,Nieve,Hora,13,18,4.0,18,4.0,0.0
+3,Nieve,Hora,14,26,5.0,26,8.0,0.0
+3,Nieve,Hora,15,41,5.0,41,6.0,0.0
+3,Nieve,Hora,16,36,6.0,36,6.0,0.0
+3,Nieve,Hora,17,23,2.0,23,2.0,0.0
+3,Nieve,Hora,18,14,5.0,14,6.0,0.0
+3,Nieve,Hora,19,13,2.0,13,2.0,0.0
+3,Nieve,Hora,20,13,4.0,13,9.0,0.0
+3,Nieve,Hora,21,8,0.0,8,0.0,0.0
+3,Nieve,Hora,22,9,3.0,9,3.0,0.0
+3,Nieve,Hora,23,7,0.0,7,0.0,0.0
+3,Precipitacion,Hora,0,53,7.0,52,9.0,0.0
+3,Precipitacion,Hora,1,70,18.0,69,24.0,2.0
+3,Precipitacion,Hora,2,38,4.0,38,4.0,0.0
+3,Precipitacion,Hora,3,39,11.0,38,14.0,0.0
+3,Precipitacion,Hora,4,28,5.0,28,8.0,0.0
+3,Precipitacion,Hora,5,37,5.0,37,5.0,0.0
+3,Precipitacion,Hora,6,76,14.0,76,16.0,0.0
+3,Precipitacion,Hora,7,152,31.0,152,39.0,1.0
+3,Precipitacion,Hora,8,155,25.0,155,31.0,0.0
+3,Precipitacion,Hora,9,120,14.0,120,19.0,0.0
+3,Precipitacion,Hora,10,143,16.0,143,31.0,0.0
+3,Precipitacion,Hora,11,146,24.0,145,33.0,1.0
+3,Precipitacion,Hora,12,154,24.0,153,35.0,0.0
+3,Precipitacion,Hora,13,159,16.0,159,20.0,0.0
+3,Precipitacion,Hora,14,187,32.0,187,41.0,0.0
+3,Precipitacion,Hora,15,225,35.0,225,48.0,0.0
+3,Precipitacion,Hora,16,210,29.0,209,40.0,0.0
+3,Precipitacion,Hora,17,167,23.0,167,32.0,0.0
+3,Precipitacion,Hora,18,163,24.0,163,28.0,0.0
+3,Precipitacion,Hora,19,128,23.0,128,32.0,0.0
+3,Precipitacion,Hora,20,110,22.0,110,33.0,0.0
+3,Precipitacion,Hora,21,117,22.0,117,31.0,0.0
+3,Precipitacion,Hora,22,94,14.0,94,21.0,0.0
+3,Precipitacion,Hora,23,69,13.0,69,15.0,1.0
+3,Seco,Hora,0,125,17.0,125,26.0,0.0
+3,Seco,Hora,1,129,21.0,129,35.0,1.0
+3,Seco,Hora,2,88,19.0,88,33.0,0.0
+3,Seco,Hora,3,113,18.0,112,34.0,0.0
+3,Seco,Hora,4,72,16.0,70,25.0,0.0
+3,Seco,Hora,5,90,12.0,90,17.0,0.0
+3,Seco,Hora,6,122,26.0,122,29.0,0.0
+3,Seco,Hora,7,243,32.0,243,47.0,0.0
+3,Seco,Hora,8,318,47.0,317,67.0,0.0
+3,Seco,Hora,9,253,33.0,253,51.0,0.0
+3,Seco,Hora,10,232,36.0,232,56.0,0.0
+3,Seco,Hora,11,291,41.0,291,61.0,1.0
+3,Seco,Hora,12,337,41.0,337,58.0,0.0
+3,Seco,Hora,13,336,43.0,336,62.0,1.0
+3,Seco,Hora,14,377,58.0,376,74.0,2.0
+3,Seco,Hora,15,430,64.0,428,86.0,3.0
+3,Seco,Hora,16,429,58.0,429,92.0,0.0
+3,Seco,Hora,17,404,51.0,403,75.0,0.0
+3,Seco,Hora,18,324,69.0,324,96.0,0.0
+3,Seco,Hora,19,265,46.0,265,72.0,0.0
+3,Seco,Hora,20,234,32.0,234,51.0,0.0
+3,Seco,Hora,21,204,39.0,203,56.0,0.0
+3,Seco,Hora,22,177,28.0,177,40.0,0.0
+3,Seco,Hora,23,168,26.0,167,33.0,1.0
+4,Nieve,Hora,0,8,1.0,8,2.0,0.0
+4,Nieve,Hora,1,4,0.0,4,0.0,0.0
+4,Nieve,Hora,2,6,2.0,6,2.0,0.0
+4,Nieve,Hora,3,3,2.0,3,2.0,0.0
+4,Nieve,Hora,4,8,1.0,8,1.0,0.0
+4,Nieve,Hora,5,9,3.0,9,4.0,0.0
+4,Nieve,Hora,6,16,2.0,16,2.0,0.0
+4,Nieve,Hora,7,39,1.0,39,2.0,0.0
+4,Nieve,Hora,8,43,3.0,43,3.0,0.0
+4,Nieve,Hora,9,33,2.0,33,2.0,0.0
+4,Nieve,Hora,10,31,3.0,31,3.0,0.0
+4,Nieve,Hora,11,34,3.0,34,3.0,0.0
+4,Nieve,Hora,12,41,6.0,41,9.0,0.0
+4,Nieve,Hora,13,35,11.0,35,12.0,0.0
+4,Nieve,Hora,14,42,7.0,42,11.0,1.0
+4,Nieve,Hora,15,67,11.0,67,13.0,0.0
+4,Nieve,Hora,16,55,7.0,55,9.0,0.0
+4,Nieve,Hora,17,52,8.0,52,9.0,0.0
+4,Nieve,Hora,18,34,6.0,34,8.0,0.0
+4,Nieve,Hora,19,37,9.0,37,10.0,0.0
+4,Nieve,Hora,20,25,1.0,25,1.0,0.0
+4,Nieve,Hora,21,16,0.0,15,0.0,0.0
+4,Nieve,Hora,22,12,4.0,12,5.0,0.0
+4,Nieve,Hora,23,14,2.0,14,2.0,0.0
+4,Precipitacion,Hora,0,95,23.0,95,42.0,0.0
+4,Precipitacion,Hora,1,86,17.0,86,27.0,0.0
+4,Precipitacion,Hora,2,70,14.0,69,22.0,0.0
+4,Precipitacion,Hora,3,52,15.0,51,22.0,0.0
+4,Precipitacion,Hora,4,46,5.0,45,5.0,0.0
+4,Precipitacion,Hora,5,68,10.0,66,12.0,0.0
+4,Precipitacion,Hora,6,77,12.0,77,12.0,0.0
+4,Precipitacion,Hora,7,214,31.0,214,37.0,0.0
+4,Precipitacion,Hora,8,262,38.0,262,54.0,0.0
+4,Precipitacion,Hora,9,189,27.0,189,46.0,0.0
+4,Precipitacion,Hora,10,154,13.0,154,15.0,0.0
+4,Precipitacion,Hora,11,190,27.0,190,38.0,0.0
+4,Precipitacion,Hora,12,208,26.0,207,36.0,0.0
+4,Precipitacion,Hora,13,198,29.0,196,35.0,0.0
+4,Precipitacion,Hora,14,264,46.0,264,60.0,0.0
+4,Precipitacion,Hora,15,352,60.0,351,84.0,0.0
+4,Precipitacion,Hora,16,331,46.0,330,53.0,0.0
+4,Precipitacion,Hora,17,288,50.0,287,71.0,0.0
+4,Precipitacion,Hora,18,223,41.0,223,64.0,0.0
+4,Precipitacion,Hora,19,177,28.0,177,41.0,0.0
+4,Precipitacion,Hora,20,135,29.0,135,42.0,0.0
+4,Precipitacion,Hora,21,130,22.0,130,31.0,0.0
+4,Precipitacion,Hora,22,117,27.0,117,33.0,0.0
+4,Precipitacion,Hora,23,82,12.0,80,13.0,0.0
+4,Seco,Hora,0,100,15.0,99,25.0,0.0
+4,Seco,Hora,1,95,20.0,94,27.0,0.0
+4,Seco,Hora,2,61,17.0,61,26.0,1.0
+4,Seco,Hora,3,59,11.0,59,14.0,0.0
+4,Seco,Hora,4,44,6.0,43,10.0,0.0
+4,Seco,Hora,5,51,11.0,51,14.0,0.0
+4,Seco,Hora,6,87,13.0,87,19.0,0.0
+4,Seco,Hora,7,230,26.0,230,38.0,0.0
+4,Seco,Hora,8,274,37.0,273,48.0,0.0
+4,Seco,Hora,9,209,38.0,209,58.0,0.0
+4,Seco,Hora,10,192,25.0,192,34.0,0.0
+4,Seco,Hora,11,219,35.0,218,41.0,0.0
+4,Seco,Hora,12,222,34.0,222,44.0,0.0
+4,Seco,Hora,13,259,30.0,258,45.0,1.0
+4,Seco,Hora,14,283,54.0,283,74.0,0.0
+4,Seco,Hora,15,379,41.0,378,60.0,0.0
+4,Seco,Hora,16,389,54.0,389,92.0,0.0
+4,Seco,Hora,17,349,64.0,348,79.0,1.0
+4,Seco,Hora,18,290,50.0,290,73.0,0.0
+4,Seco,Hora,19,193,32.0,192,44.0,1.0
+4,Seco,Hora,20,188,33.0,187,51.0,0.0
+4,Seco,Hora,21,156,31.0,156,44.0,0.0
+4,Seco,Hora,22,135,20.0,135,26.0,0.0
+4,Seco,Hora,23,118,22.0,118,29.0,0.0
+5,Precipitacion,Hora,0,114,22.0,113,41.0,0.0
+5,Precipitacion,Hora,1,68,20.0,67,34.0,0.0
+5,Precipitacion,Hora,2,67,6.0,67,8.0,0.0
+5,Precipitacion,Hora,3,46,8.0,46,10.0,0.0
+5,Precipitacion,Hora,4,47,11.0,47,14.0,0.0
+5,Precipitacion,Hora,5,44,12.0,44,15.0,0.0
+5,Precipitacion,Hora,6,82,12.0,82,17.0,0.0
+5,Precipitacion,Hora,7,177,33.0,176,43.0,0.0
+5,Precipitacion,Hora,8,267,28.0,266,35.0,0.0
+5,Precipitacion,Hora,9,202,37.0,200,45.0,0.0
+5,Precipitacion,Hora,10,190,34.0,189,45.0,0.0
+5,Precipitacion,Hora,11,224,29.0,224,43.0,0.0
+5,Precipitacion,Hora,12,244,36.0,243,55.0,0.0
+5,Precipitacion,Hora,13,244,41.0,244,50.0,0.0
+5,Precipitacion,Hora,14,311,48.0,310,63.0,0.0
+5,Precipitacion,Hora,15,400,63.0,399,87.0,0.0
+5,Precipitacion,Hora,16,362,50.0,362,64.0,0.0
+5,Precipitacion,Hora,17,339,50.0,339,68.0,0.0
+5,Precipitacion,Hora,18,269,54.0,269,79.0,1.0
+5,Precipitacion,Hora,19,176,28.0,176,43.0,0.0
+5,Precipitacion,Hora,20,159,31.0,159,47.0,0.0
+5,Precipitacion,Hora,21,140,26.0,140,36.0,0.0
+5,Precipitacion,Hora,22,132,29.0,131,47.0,0.0
+5,Precipitacion,Hora,23,102,28.0,102,40.0,1.0
+5,Seco,Hora,0,119,23.0,118,39.0,0.0
+5,Seco,Hora,1,97,20.0,96,29.0,1.0
+5,Seco,Hora,2,93,19.0,91,31.0,1.0
+5,Seco,Hora,3,82,14.0,82,22.0,0.0
+5,Seco,Hora,4,63,14.0,62,20.0,0.0
+5,Seco,Hora,5,69,10.0,69,11.0,0.0
+5,Seco,Hora,6,124,18.0,124,24.0,0.0
+5,Seco,Hora,7,288,46.0,287,65.0,0.0
+5,Seco,Hora,8,323,50.0,323,62.0,0.0
+5,Seco,Hora,9,229,37.0,228,44.0,0.0
+5,Seco,Hora,10,286,37.0,286,47.0,0.0
+5,Seco,Hora,11,316,48.0,316,69.0,2.0
+5,Seco,Hora,12,353,63.0,353,77.0,2.0
+5,Seco,Hora,13,389,58.0,389,83.0,0.0
+5,Seco,Hora,14,457,70.0,456,90.0,0.0
+5,Seco,Hora,15,512,79.0,511,109.0,0.0
+5,Seco,Hora,16,535,105.0,535,146.0,0.0
+5,Seco,Hora,17,497,81.0,496,103.0,0.0
+5,Seco,Hora,18,424,81.0,424,108.0,0.0
+5,Seco,Hora,19,274,47.0,272,55.0,1.0
+5,Seco,Hora,20,204,38.0,204,63.0,0.0
+5,Seco,Hora,21,208,49.0,208,77.0,1.0
+5,Seco,Hora,22,216,53.0,216,80.0,2.0
+5,Seco,Hora,23,178,37.0,178,52.0,4.0
+6,Precipitacion,Hora,0,105,29.0,105,38.0,0.0
+6,Precipitacion,Hora,1,86,21.0,86,39.0,0.0
+6,Precipitacion,Hora,2,78,17.0,77,25.0,0.0
+6,Precipitacion,Hora,3,47,12.0,46,15.0,0.0
+6,Precipitacion,Hora,4,38,10.0,38,11.0,0.0
+6,Precipitacion,Hora,5,38,8.0,38,10.0,0.0
+6,Precipitacion,Hora,6,60,9.0,60,11.0,0.0
+6,Precipitacion,Hora,7,124,21.0,124,26.0,0.0
+6,Precipitacion,Hora,8,176,29.0,176,41.0,2.0
+6,Precipitacion,Hora,9,148,22.0,148,30.0,0.0
+6,Precipitacion,Hora,10,152,23.0,152,27.0,0.0
+6,Precipitacion,Hora,11,199,35.0,199,51.0,0.0
+6,Precipitacion,Hora,12,229,27.0,229,37.0,0.0
+6,Precipitacion,Hora,13,236,36.0,236,59.0,0.0
+6,Precipitacion,Hora,14,232,34.0,232,46.0,0.0
+6,Precipitacion,Hora,15,291,46.0,290,60.0,1.0
+6,Precipitacion,Hora,16,289,40.0,289,52.0,0.0
+6,Precipitacion,Hora,17,278,43.0,278,57.0,0.0
+6,Precipitacion,Hora,18,244,42.0,244,53.0,0.0
+6,Precipitacion,Hora,19,177,35.0,177,48.0,0.0
+6,Precipitacion,Hora,20,158,31.0,158,41.0,0.0
+6,Precipitacion,Hora,21,123,24.0,123,33.0,0.0
+6,Precipitacion,Hora,22,134,16.0,134,26.0,0.0
+6,Precipitacion,Hora,23,138,27.0,138,46.0,0.0
+6,Seco,Hora,0,181,44.0,181,64.0,0.0
+6,Seco,Hora,1,119,26.0,118,54.0,0.0
+6,Seco,Hora,2,97,19.0,97,33.0,0.0
+6,Seco,Hora,3,105,30.0,104,47.0,0.0
+6,Seco,Hora,4,77,22.0,77,28.0,0.0
+6,Seco,Hora,5,78,23.0,78,39.0,2.0
+6,Seco,Hora,6,121,26.0,121,40.0,0.0
+6,Seco,Hora,7,198,32.0,198,39.0,0.0
+6,Seco,Hora,8,232,34.0,231,41.0,1.0
+6,Seco,Hora,9,288,42.0,288,67.0,0.0
+6,Seco,Hora,10,294,45.0,294,65.0,0.0
+6,Seco,Hora,11,312,50.0,311,60.0,1.0
+6,Seco,Hora,12,408,59.0,408,81.0,0.0
+6,Seco,Hora,13,418,65.0,418,85.0,0.0
+6,Seco,Hora,14,447,67.0,445,102.0,0.0
+6,Seco,Hora,15,475,79.0,475,103.0,0.0
+6,Seco,Hora,16,473,68.0,472,102.0,0.0
+6,Seco,Hora,17,496,89.0,496,123.0,1.0
+6,Seco,Hora,18,378,54.0,377,73.0,0.0
+6,Seco,Hora,19,284,55.0,283,81.0,1.0
+6,Seco,Hora,20,208,42.0,208,83.0,0.0
+6,Seco,Hora,21,239,51.0,238,61.0,0.0
+6,Seco,Hora,22,236,47.0,235,70.0,1.0
+6,Seco,Hora,23,192,41.0,190,62.0,2.0
+7,Precipitacion,Hora,0,125,27.0,123,42.0,0.0
+7,Precipitacion,Hora,1,81,19.0,80,27.0,0.0
+7,Precipitacion,Hora,2,71,23.0,70,33.0,0.0
+7,Precipitacion,Hora,3,68,15.0,66,17.0,0.0
+7,Precipitacion,Hora,4,46,8.0,44,11.0,2.0
+7,Precipitacion,Hora,5,66,12.0,66,18.0,1.0
+7,Precipitacion,Hora,6,72,10.0,71,16.0,0.0
+7,Precipitacion,Hora,7,122,27.0,122,29.0,0.0
+7,Precipitacion,Hora,8,181,35.0,180,40.0,0.0
+7,Precipitacion,Hora,9,181,21.0,181,30.0,0.0
+7,Precipitacion,Hora,10,187,27.0,187,39.0,0.0
+7,Precipitacion,Hora,11,199,32.0,199,56.0,0.0
+7,Precipitacion,Hora,12,259,38.0,259,55.0,0.0
+7,Precipitacion,Hora,13,230,32.0,228,46.0,0.0
+7,Precipitacion,Hora,14,259,40.0,258,49.0,0.0
+7,Precipitacion,Hora,15,303,64.0,303,80.0,0.0
+7,Precipitacion,Hora,16,319,53.0,318,72.0,0.0
+7,Precipitacion,Hora,17,287,45.0,287,64.0,0.0
+7,Precipitacion,Hora,18,252,42.0,252,63.0,0.0
+7,Precipitacion,Hora,19,164,33.0,164,45.0,0.0
+7,Precipitacion,Hora,20,117,23.0,117,29.0,1.0
+7,Precipitacion,Hora,21,154,30.0,154,39.0,0.0
+7,Precipitacion,Hora,22,143,31.0,141,45.0,0.0
+7,Precipitacion,Hora,23,100,25.0,99,40.0,1.0
+7,Seco,Hora,0,125,30.0,125,56.0,2.0
+7,Seco,Hora,1,126,31.0,126,47.0,1.0
+7,Seco,Hora,2,82,15.0,82,31.0,2.0
+7,Seco,Hora,3,96,22.0,95,38.0,1.0
+7,Seco,Hora,4,77,19.0,76,30.0,0.0
+7,Seco,Hora,5,72,13.0,71,16.0,0.0
+7,Seco,Hora,6,104,22.0,104,28.0,1.0
+7,Seco,Hora,7,142,23.0,142,28.0,0.0
+7,Seco,Hora,8,219,42.0,218,62.0,0.0
+7,Seco,Hora,9,209,28.0,209,42.0,0.0
+7,Seco,Hora,10,258,41.0,258,52.0,0.0
+7,Seco,Hora,11,288,46.0,286,72.0,0.0
+7,Seco,Hora,12,364,62.0,362,86.0,0.0
+7,Seco,Hora,13,349,61.0,348,81.0,0.0
+7,Seco,Hora,14,379,67.0,379,101.0,0.0
+7,Seco,Hora,15,426,77.0,426,107.0,0.0
+7,Seco,Hora,16,416,69.0,415,96.0,0.0
+7,Seco,Hora,17,416,67.0,416,109.0,1.0
+7,Seco,Hora,18,386,71.0,385,90.0,1.0
+7,Seco,Hora,19,272,56.0,272,79.0,0.0
+7,Seco,Hora,20,211,47.0,210,60.0,0.0
+7,Seco,Hora,21,192,48.0,190,73.0,0.0
+7,Seco,Hora,22,207,40.0,206,52.0,2.0
+7,Seco,Hora,23,204,35.0,202,49.0,0.0
+8,Precipitacion,Hora,0,88,13.0,88,14.0,0.0
+8,Precipitacion,Hora,1,54,10.0,53,19.0,0.0
+8,Precipitacion,Hora,2,37,10.0,34,17.0,0.0
+8,Precipitacion,Hora,3,47,6.0,47,6.0,0.0
+8,Precipitacion,Hora,4,45,9.0,45,14.0,0.0
+8,Precipitacion,Hora,5,43,6.0,43,9.0,0.0
+8,Precipitacion,Hora,6,69,16.0,69,20.0,0.0
+8,Precipitacion,Hora,7,137,15.0,136,18.0,0.0
+8,Precipitacion,Hora,8,179,27.0,179,33.0,0.0
+8,Precipitacion,Hora,9,154,19.0,154,28.0,0.0
+8,Precipitacion,Hora,10,139,21.0,137,33.0,0.0
+8,Precipitacion,Hora,11,186,20.0,184,27.0,0.0
+8,Precipitacion,Hora,12,222,37.0,222,58.0,0.0
+8,Precipitacion,Hora,13,221,34.0,221,54.0,0.0
+8,Precipitacion,Hora,14,223,37.0,223,55.0,0.0
+8,Precipitacion,Hora,15,260,40.0,260,52.0,0.0
+8,Precipitacion,Hora,16,237,39.0,237,55.0,0.0
+8,Precipitacion,Hora,17,248,54.0,248,65.0,0.0
+8,Precipitacion,Hora,18,184,36.0,184,48.0,0.0
+8,Precipitacion,Hora,19,135,28.0,135,41.0,0.0
+8,Precipitacion,Hora,20,134,32.0,134,36.0,1.0
+8,Precipitacion,Hora,21,111,18.0,111,25.0,0.0
+8,Precipitacion,Hora,22,90,15.0,90,19.0,0.0
+8,Precipitacion,Hora,23,73,16.0,73,22.0,3.0
+8,Seco,Hora,0,142,34.0,140,54.0,0.0
+8,Seco,Hora,1,147,31.0,146,50.0,1.0
+8,Seco,Hora,2,99,15.0,98,25.0,1.0
+8,Seco,Hora,3,87,19.0,85,27.0,1.0
+8,Seco,Hora,4,77,18.0,77,22.0,1.0
+8,Seco,Hora,5,89,16.0,89,22.0,0.0
+8,Seco,Hora,6,125,26.0,123,34.0,0.0
+8,Seco,Hora,7,240,43.0,239,56.0,0.0
+8,Seco,Hora,8,282,53.0,281,71.0,0.0
+8,Seco,Hora,9,275,38.0,275,47.0,0.0
+8,Seco,Hora,10,287,34.0,287,48.0,0.0
+8,Seco,Hora,11,330,45.0,330,69.0,0.0
+8,Seco,Hora,12,376,59.0,375,91.0,0.0
+8,Seco,Hora,13,416,71.0,416,97.0,0.0
+8,Seco,Hora,14,453,82.0,452,102.0,0.0
+8,Seco,Hora,15,488,73.0,488,86.0,0.0
+8,Seco,Hora,16,526,69.0,526,106.0,0.0
+8,Seco,Hora,17,513,99.0,512,134.0,0.0
+8,Seco,Hora,18,431,78.0,431,104.0,0.0
+8,Seco,Hora,19,283,62.0,282,92.0,1.0
+8,Seco,Hora,20,276,56.0,276,83.0,0.0
+8,Seco,Hora,21,229,43.0,228,68.0,1.0
+8,Seco,Hora,22,220,52.0,220,83.0,0.0
+8,Seco,Hora,23,217,44.0,213,59.0,0.0
+9,Precipitacion,Hora,0,42,10.0,42,14.0,0.0
+9,Precipitacion,Hora,1,36,10.0,36,12.0,0.0
+9,Precipitacion,Hora,2,28,8.0,28,14.0,0.0
+9,Precipitacion,Hora,3,31,5.0,29,11.0,0.0
+9,Precipitacion,Hora,4,23,6.0,23,11.0,0.0
+9,Precipitacion,Hora,5,28,1.0,28,2.0,0.0
+9,Precipitacion,Hora,6,43,7.0,43,11.0,0.0
+9,Precipitacion,Hora,7,105,15.0,105,26.0,0.0
+9,Precipitacion,Hora,8,122,16.0,121,21.0,0.0
+9,Precipitacion,Hora,9,92,16.0,92,23.0,0.0
+9,Precipitacion,Hora,10,81,13.0,81,19.0,0.0
+9,Precipitacion,Hora,11,96,13.0,96,20.0,0.0
+9,Precipitacion,Hora,12,114,15.0,114,19.0,0.0
+9,Precipitacion,Hora,13,131,21.0,131,28.0,0.0
+9,Precipitacion,Hora,14,134,13.0,134,19.0,0.0
+9,Precipitacion,Hora,15,155,25.0,155,34.0,0.0
+9,Precipitacion,Hora,16,153,30.0,153,39.0,0.0
+9,Precipitacion,Hora,17,143,26.0,143,33.0,0.0
+9,Precipitacion,Hora,18,129,27.0,129,35.0,0.0
+9,Precipitacion,Hora,19,95,16.0,95,18.0,0.0
+9,Precipitacion,Hora,20,80,21.0,80,24.0,0.0
+9,Precipitacion,Hora,21,63,9.0,62,13.0,0.0
+9,Precipitacion,Hora,22,62,11.0,62,20.0,0.0
+9,Precipitacion,Hora,23,51,10.0,49,11.0,0.0
+9,Seco,Hora,0,182,31.0,180,49.0,1.0
+9,Seco,Hora,1,130,28.0,130,58.0,0.0
+9,Seco,Hora,2,118,31.0,117,57.0,1.0
+9,Seco,Hora,3,116,29.0,116,50.0,2.0
+9,Seco,Hora,4,91,26.0,90,37.0,2.0
+9,Seco,Hora,5,89,20.0,88,29.0,1.0
+9,Seco,Hora,6,150,26.0,150,34.0,0.0
+9,Seco,Hora,7,422,69.0,422,103.0,0.0
+9,Seco,Hora,8,424,66.0,423,92.0,0.0
+9,Seco,Hora,9,355,57.0,355,80.0,0.0
+9,Seco,Hora,10,325,46.0,324,67.0,0.0
+9,Seco,Hora,11,417,56.0,416,75.0,1.0
+9,Seco,Hora,12,428,56.0,427,74.0,0.0
+9,Seco,Hora,13,444,62.0,442,83.0,0.0
+9,Seco,Hora,14,458,75.0,457,101.0,0.0
+9,Seco,Hora,15,659,119.0,659,177.0,1.0
+9,Seco,Hora,16,642,111.0,642,151.0,0.0
+9,Seco,Hora,17,572,117.0,572,154.0,0.0
+9,Seco,Hora,18,440,75.0,438,92.0,0.0
+9,Seco,Hora,19,323,65.0,321,88.0,0.0
+9,Seco,Hora,20,319,71.0,319,92.0,0.0
+9,Seco,Hora,21,267,56.0,267,75.0,0.0
+9,Seco,Hora,22,215,44.0,213,63.0,1.0
+9,Seco,Hora,23,193,38.0,192,49.0,1.0
+10,Precipitacion,Hora,0,53,13.0,53,22.0,0.0
+10,Precipitacion,Hora,1,36,9.0,36,14.0,2.0
+10,Precipitacion,Hora,2,33,6.0,32,12.0,0.0
+10,Precipitacion,Hora,3,28,10.0,28,15.0,0.0
+10,Precipitacion,Hora,4,24,4.0,24,9.0,0.0
+10,Precipitacion,Hora,5,39,6.0,39,8.0,0.0
+10,Precipitacion,Hora,6,83,16.0,83,19.0,0.0
+10,Precipitacion,Hora,7,125,15.0,125,20.0,0.0
+10,Precipitacion,Hora,8,134,24.0,134,32.0,0.0
+10,Precipitacion,Hora,9,112,17.0,112,18.0,0.0
+10,Precipitacion,Hora,10,91,16.0,90,24.0,0.0
+10,Precipitacion,Hora,11,118,20.0,118,25.0,0.0
+10,Precipitacion,Hora,12,133,16.0,133,18.0,0.0
+10,Precipitacion,Hora,13,125,27.0,124,41.0,0.0
+10,Precipitacion,Hora,14,139,21.0,139,32.0,0.0
+10,Precipitacion,Hora,15,205,25.0,205,28.0,0.0
+10,Precipitacion,Hora,16,185,29.0,184,44.0,0.0
+10,Precipitacion,Hora,17,147,22.0,145,30.0,0.0
+10,Precipitacion,Hora,18,126,24.0,126,25.0,0.0
+10,Precipitacion,Hora,19,110,20.0,110,25.0,0.0
+10,Precipitacion,Hora,20,92,14.0,92,20.0,0.0
+10,Precipitacion,Hora,21,61,7.0,59,11.0,0.0
+10,Precipitacion,Hora,22,62,11.0,60,17.0,0.0
+10,Precipitacion,Hora,23,55,12.0,55,21.0,0.0
+10,Seco,Hora,0,138,33.0,136,42.0,1.0
+10,Seco,Hora,1,113,26.0,113,49.0,2.0
+10,Seco,Hora,2,122,26.0,120,35.0,1.0
+10,Seco,Hora,3,99,24.0,99,40.0,0.0
+10,Seco,Hora,4,76,11.0,75,18.0,1.0
+10,Seco,Hora,5,104,21.0,103,26.0,0.0
+10,Seco,Hora,6,165,25.0,165,32.0,0.0
+10,Seco,Hora,7,422,60.0,422,91.0,0.0
+10,Seco,Hora,8,526,83.0,525,104.0,0.0
+10,Seco,Hora,9,352,57.0,352,77.0,0.0
+10,Seco,Hora,10,349,52.0,348,75.0,1.0
+10,Seco,Hora,11,351,43.0,350,53.0,0.0
+10,Seco,Hora,12,431,70.0,430,96.0,1.0
+10,Seco,Hora,13,428,80.0,428,116.0,0.0
+10,Seco,Hora,14,497,95.0,497,124.0,0.0
+10,Seco,Hora,15,625,118.0,624,175.0,1.0
+10,Seco,Hora,16,614,102.0,614,141.0,0.0
+10,Seco,Hora,17,537,105.0,536,131.0,0.0
+10,Seco,Hora,18,439,73.0,438,94.0,0.0
+10,Seco,Hora,19,364,76.0,363,103.0,0.0
+10,Seco,Hora,20,258,46.0,258,64.0,0.0
+10,Seco,Hora,21,203,53.0,203,77.0,0.0
+10,Seco,Hora,22,203,39.0,202,60.0,1.0
+10,Seco,Hora,23,159,20.0,159,29.0,0.0
+11,Nieve,Hora,0,1,0.0,1,0.0,0.0
+11,Nieve,Hora,1,2,1.0,2,1.0,0.0
+11,Nieve,Hora,2,5,0.0,5,0.0,0.0
+11,Nieve,Hora,4,2,0.0,2,0.0,0.0
+11,Nieve,Hora,5,5,0.0,5,0.0,0.0
+11,Nieve,Hora,6,6,3.0,6,4.0,0.0
+11,Nieve,Hora,7,17,4.0,17,5.0,0.0
+11,Nieve,Hora,8,23,3.0,23,3.0,0.0
+11,Nieve,Hora,9,90,7.0,90,9.0,0.0
+11,Nieve,Hora,10,117,7.0,117,9.0,0.0
+11,Nieve,Hora,11,96,14.0,96,16.0,0.0
+11,Nieve,Hora,12,23,4.0,23,5.0,0.0
+11,Nieve,Hora,13,17,2.0,17,4.0,0.0
+11,Nieve,Hora,14,13,3.0,13,3.0,0.0
+11,Nieve,Hora,15,16,4.0,16,5.0,0.0
+11,Nieve,Hora,16,30,3.0,30,4.0,0.0
+11,Nieve,Hora,17,32,9.0,32,12.0,0.0
+11,Nieve,Hora,18,27,3.0,27,4.0,0.0
+11,Nieve,Hora,19,15,2.0,15,2.0,0.0
+11,Nieve,Hora,20,16,2.0,16,2.0,0.0
+11,Nieve,Hora,21,10,3.0,10,3.0,0.0
+11,Nieve,Hora,22,3,0.0,3,0.0,0.0
+11,Nieve,Hora,23,6,1.0,6,1.0,0.0
+11,Precipitacion,Hora,0,67,11.0,67,21.0,0.0
+11,Precipitacion,Hora,1,66,14.0,66,21.0,1.0
+11,Precipitacion,Hora,2,52,8.0,52,19.0,1.0
+11,Precipitacion,Hora,3,50,7.0,50,12.0,0.0
+11,Precipitacion,Hora,4,42,7.0,42,11.0,0.0
+11,Precipitacion,Hora,5,57,16.0,56,19.0,1.0
+11,Precipitacion,Hora,6,86,16.0,86,19.0,0.0
+11,Precipitacion,Hora,7,164,27.0,164,36.0,0.0
+11,Precipitacion,Hora,8,170,24.0,170,27.0,0.0
+11,Precipitacion,Hora,9,113,12.0,113,12.0,0.0
+11,Precipitacion,Hora,10,143,15.0,143,19.0,0.0
+11,Precipitacion,Hora,11,136,22.0,135,33.0,0.0
+11,Precipitacion,Hora,12,145,25.0,145,33.0,0.0
+11,Precipitacion,Hora,13,146,21.0,146,32.0,0.0
+11,Precipitacion,Hora,14,182,27.0,182,43.0,0.0
+11,Precipitacion,Hora,15,253,39.0,252,57.0,1.0
+11,Precipitacion,Hora,16,218,41.0,218,50.0,0.0
+11,Precipitacion,Hora,17,283,46.0,283,59.0,0.0
+11,Precipitacion,Hora,18,209,44.0,208,54.0,0.0
+11,Precipitacion,Hora,19,145,30.0,145,39.0,0.0
+11,Precipitacion,Hora,20,108,27.0,108,34.0,0.0
+11,Precipitacion,Hora,21,104,25.0,104,37.0,0.0
+11,Precipitacion,Hora,22,66,12.0,66,14.0,0.0
+11,Precipitacion,Hora,23,57,6.0,57,11.0,1.0
+11,Seco,Hora,0,122,18.0,121,27.0,1.0
+11,Seco,Hora,1,92,20.0,92,42.0,0.0
+11,Seco,Hora,2,67,12.0,67,16.0,0.0
+11,Seco,Hora,3,75,14.0,75,24.0,2.0
+11,Seco,Hora,4,74,12.0,73,14.0,0.0
+11,Seco,Hora,5,73,14.0,73,18.0,0.0
+11,Seco,Hora,6,102,15.0,102,23.0,0.0
+11,Seco,Hora,7,217,30.0,217,38.0,0.0
+11,Seco,Hora,8,261,38.0,261,41.0,0.0
+11,Seco,Hora,9,245,29.0,245,46.0,0.0
+11,Seco,Hora,10,245,32.0,244,43.0,0.0
+11,Seco,Hora,11,274,42.0,274,55.0,0.0
+11,Seco,Hora,12,336,54.0,336,72.0,0.0
+11,Seco,Hora,13,300,52.0,300,69.0,0.0
+11,Seco,Hora,14,321,37.0,320,45.0,0.0
+11,Seco,Hora,15,411,64.0,411,90.0,0.0
+11,Seco,Hora,16,374,52.0,373,67.0,0.0
+11,Seco,Hora,17,400,60.0,399,86.0,0.0
+11,Seco,Hora,18,383,51.0,383,79.0,2.0
+11,Seco,Hora,19,259,45.0,259,57.0,0.0
+11,Seco,Hora,20,218,31.0,217,44.0,0.0
+11,Seco,Hora,21,150,22.0,150,40.0,0.0
+11,Seco,Hora,22,158,31.0,157,51.0,0.0
+11,Seco,Hora,23,146,23.0,145,34.0,0.0
+12,Nieve,Hora,0,19,4.0,19,5.0,0.0
+12,Nieve,Hora,1,21,1.0,21,2.0,0.0
+12,Nieve,Hora,2,5,2.0,5,3.0,0.0
+12,Nieve,Hora,3,9,0.0,8,0.0,0.0
+12,Nieve,Hora,4,7,1.0,7,2.0,0.0
+12,Nieve,Hora,5,18,3.0,18,5.0,0.0
+12,Nieve,Hora,6,50,12.0,50,15.0,0.0
+12,Nieve,Hora,7,74,11.0,74,14.0,0.0
+12,Nieve,Hora,8,105,10.0,104,14.0,0.0
+12,Nieve,Hora,9,76,8.0,76,12.0,0.0
+12,Nieve,Hora,10,67,5.0,67,5.0,0.0
+12,Nieve,Hora,11,71,13.0,71,18.0,0.0
+12,Nieve,Hora,12,81,5.0,81,6.0,0.0
+12,Nieve,Hora,13,72,14.0,72,14.0,0.0
+12,Nieve,Hora,14,109,14.0,109,15.0,0.0
+12,Nieve,Hora,15,122,11.0,122,13.0,0.0
+12,Nieve,Hora,16,130,18.0,130,26.0,0.0
+12,Nieve,Hora,17,163,21.0,163,25.0,0.0
+12,Nieve,Hora,18,89,18.0,89,26.0,0.0
+12,Nieve,Hora,19,67,19.0,67,23.0,0.0
+12,Nieve,Hora,20,73,13.0,72,24.0,0.0
+12,Nieve,Hora,21,39,6.0,39,10.0,0.0
+12,Nieve,Hora,22,43,12.0,43,12.0,0.0
+12,Nieve,Hora,23,47,10.0,47,12.0,0.0
+12,Precipitacion,Hora,0,58,9.0,57,15.0,2.0
+12,Precipitacion,Hora,1,62,8.0,62,14.0,0.0
+12,Precipitacion,Hora,2,40,11.0,40,16.0,0.0
+12,Precipitacion,Hora,3,54,10.0,54,13.0,1.0
+12,Precipitacion,Hora,4,39,8.0,39,11.0,0.0
+12,Precipitacion,Hora,5,39,8.0,38,10.0,0.0
+12,Precipitacion,Hora,6,42,11.0,42,15.0,0.0
+12,Precipitacion,Hora,7,55,9.0,55,16.0,0.0
+12,Precipitacion,Hora,8,76,10.0,76,18.0,0.0
+12,Precipitacion,Hora,9,85,16.0,85,24.0,0.0
+12,Precipitacion,Hora,10,83,9.0,83,10.0,0.0
+12,Precipitacion,Hora,11,90,14.0,89,16.0,0.0
+12,Precipitacion,Hora,12,127,18.0,127,22.0,1.0
+12,Precipitacion,Hora,13,121,22.0,121,42.0,0.0
+12,Precipitacion,Hora,14,130,18.0,130,21.0,0.0
+12,Precipitacion,Hora,15,163,27.0,163,33.0,0.0
+12,Precipitacion,Hora,16,135,24.0,135,32.0,0.0
+12,Precipitacion,Hora,17,157,30.0,157,35.0,0.0
+12,Precipitacion,Hora,18,162,31.0,162,46.0,0.0
+12,Precipitacion,Hora,19,116,19.0,116,23.0,0.0
+12,Precipitacion,Hora,20,95,21.0,95,31.0,0.0
+12,Precipitacion,Hora,21,95,18.0,95,19.0,0.0
+12,Precipitacion,Hora,22,89,18.0,89,26.0,0.0
+12,Precipitacion,Hora,23,69,12.0,68,25.0,0.0
+12,Seco,Hora,0,109,26.0,109,38.0,0.0
+12,Seco,Hora,1,96,15.0,96,27.0,0.0
+12,Seco,Hora,2,77,9.0,76,12.0,0.0
+12,Seco,Hora,3,71,10.0,70,15.0,0.0
+12,Seco,Hora,4,69,13.0,68,20.0,0.0
+12,Seco,Hora,5,76,12.0,75,16.0,0.0
+12,Seco,Hora,6,110,17.0,110,24.0,0.0
+12,Seco,Hora,7,237,25.0,236,45.0,0.0
+12,Seco,Hora,8,295,50.0,295,72.0,0.0
+12,Seco,Hora,9,212,25.0,212,37.0,0.0
+12,Seco,Hora,10,209,18.0,209,23.0,0.0
+12,Seco,Hora,11,264,35.0,264,50.0,0.0
+12,Seco,Hora,12,330,33.0,330,43.0,0.0
+12,Seco,Hora,13,279,46.0,279,67.0,1.0
+12,Seco,Hora,14,300,54.0,300,66.0,0.0
+12,Seco,Hora,15,401,52.0,401,67.0,0.0
+12,Seco,Hora,16,355,53.0,354,65.0,0.0
+12,Seco,Hora,17,391,53.0,391,76.0,0.0
+12,Seco,Hora,18,316,47.0,316,68.0,0.0
+12,Seco,Hora,19,259,36.0,259,58.0,0.0
+12,Seco,Hora,20,192,36.0,192,45.0,0.0
+12,Seco,Hora,21,156,24.0,156,42.0,1.0
+12,Seco,Hora,22,130,27.0,129,45.0,0.0
+12,Seco,Hora,23,116,18.0,115,25.0,0.0
+1,Nieve,Dia,0,288,35.0,288,43.0,0.0
+1,Nieve,Dia,1,595,75.0,594,95.0,0.0
+1,Nieve,Dia,2,565,81.0,563,106.0,0.0
+1,Nieve,Dia,3,591,75.0,589,109.0,1.0
+1,Nieve,Dia,4,654,76.0,652,93.0,0.0
+1,Nieve,Dia,5,554,64.0,552,93.0,0.0
+1,Nieve,Dia,6,442,63.0,440,88.0,0.0
+1,Precipitacion,Dia,2,342,57.0,342,68.0,0.0
+1,Precipitacion,Dia,3,270,36.0,270,44.0,0.0
+1,Precipitacion,Dia,4,312,38.0,312,43.0,0.0
+1,Precipitacion,Dia,5,257,44.0,257,63.0,0.0
+1,Precipitacion,Dia,6,227,37.0,227,51.0,0.0
+1,Seco,Dia,0,975,127.0,972,190.0,1.0
+1,Seco,Dia,1,712,120.0,712,168.0,0.0
+1,Seco,Dia,2,430,62.0,429,89.0,0.0
+1,Seco,Dia,3,223,45.0,223,58.0,0.0
+1,Seco,Dia,4,227,30.0,227,42.0,0.0
+1,Seco,Dia,5,312,43.0,311,53.0,0.0
+1,Seco,Dia,6,259,40.0,259,63.0,2.0
+2,Nieve,Dia,2,267,41.0,267,52.0,0.0
+2,Nieve,Dia,4,575,79.0,575,104.0,0.0
+2,Precipitacion,Dia,1,314,52.0,313,68.0,0.0
+2,Precipitacion,Dia,3,561,75.0,560,102.0,2.0
+2,Seco,Dia,0,1006,149.0,1004,211.0,0.0
+2,Seco,Dia,1,785,106.0,785,138.0,0.0
+2,Seco,Dia,2,801,137.0,800,186.0,0.0
+2,Seco,Dia,3,831,139.0,829,172.0,1.0
+2,Seco,Dia,4,565,87.0,565,117.0,1.0
+2,Seco,Dia,5,1168,183.0,1164,267.0,0.0
+2,Seco,Dia,6,927,184.0,925,268.0,4.0
+3,Nieve,Dia,4,326,54.0,325,70.0,0.0
+3,Precipitacion,Dia,0,490,81.0,489,115.0,0.0
+3,Precipitacion,Dia,1,535,83.0,534,104.0,2.0
+3,Precipitacion,Dia,2,291,45.0,290,61.0,1.0
+3,Precipitacion,Dia,3,309,54.0,308,75.0,0.0
+3,Precipitacion,Dia,4,663,89.0,662,127.0,0.0
+3,Precipitacion,Dia,5,310,53.0,309,63.0,0.0
+3,Precipitacion,Dia,6,242,46.0,242,64.0,2.0
+3,Seco,Dia,0,622,112.0,620,153.0,0.0
+3,Seco,Dia,1,614,90.0,613,126.0,4.0
+3,Seco,Dia,2,823,125.0,823,168.0,1.0
+3,Seco,Dia,3,776,117.0,774,159.0,1.0
+3,Seco,Dia,4,643,90.0,643,129.0,2.0
+3,Seco,Dia,5,1231,178.0,1228,266.0,0.0
+3,Seco,Dia,6,1052,161.0,1050,275.0,1.0
+4,Nieve,Dia,2,364,55.0,363,64.0,0.0
+4,Nieve,Dia,3,300,40.0,300,51.0,1.0
+4,Precipitacion,Dia,0,643,111.0,641,149.0,0.0
+4,Precipitacion,Dia,1,878,137.0,874,193.0,0.0
+4,Precipitacion,Dia,2,303,51.0,302,68.0,0.0
+4,Precipitacion,Dia,3,583,84.0,583,123.0,0.0
+4,Precipitacion,Dia,4,724,116.0,721,155.0,0.0
+4,Precipitacion,Dia,5,331,56.0,330,82.0,0.0
+4,Precipitacion,Dia,6,546,93.0,544,125.0,0.0
+4,Seco,Dia,0,913,141.0,912,184.0,1.0
+4,Seco,Dia,1,675,100.0,672,148.0,1.0
+4,Seco,Dia,2,538,85.0,537,123.0,0.0
+4,Seco,Dia,3,356,46.0,356,67.0,0.0
+4,Seco,Dia,4,628,104.0,627,144.0,0.0
+4,Seco,Dia,5,876,132.0,873,187.0,1.0
+4,Seco,Dia,6,596,111.0,595,162.0,1.0
+5,Precipitacion,Dia,0,923,160.0,921,224.0,0.0
+5,Precipitacion,Dia,1,1017,154.0,1014,206.0,2.0
+5,Precipitacion,Dia,3,1084,167.0,1083,225.0,0.0
+5,Precipitacion,Dia,4,384,61.0,383,84.0,0.0
+5,Precipitacion,Dia,5,700,134.0,696,202.0,0.0
+5,Precipitacion,Dia,6,298,60.0,298,88.0,0.0
+5,Seco,Dia,0,304,53.0,304,82.0,0.0
+5,Seco,Dia,1,350,59.0,348,81.0,1.0
+5,Seco,Dia,2,1799,290.0,1797,387.0,3.0
+5,Seco,Dia,3,697,130.0,695,166.0,0.0
+5,Seco,Dia,4,1532,261.0,1531,351.0,3.0
+5,Seco,Dia,5,755,137.0,752,211.0,4.0
+5,Seco,Dia,6,899,167.0,897,228.0,3.0
+6,Precipitacion,Dia,1,950,155.0,950,212.0,1.0
+6,Precipitacion,Dia,2,355,61.0,355,70.0,0.0
+6,Precipitacion,Dia,3,302,58.0,302,83.0,0.0
+6,Precipitacion,Dia,4,374,57.0,374,85.0,0.0
+6,Precipitacion,Dia,5,1479,235.0,1476,330.0,0.0
+6,Precipitacion,Dia,6,320,71.0,320,102.0,2.0
+6,Seco,Dia,0,1288,200.0,1284,286.0,2.0
+6,Seco,Dia,1,323,63.0,321,96.0,1.0
+6,Seco,Dia,2,925,155.0,923,222.0,0.0
+6,Seco,Dia,3,1016,164.0,1016,217.0,2.0
+6,Seco,Dia,4,1139,189.0,1136,260.0,0.0
+6,Seco,Dia,5,365,78.0,364,121.0,0.0
+6,Seco,Dia,6,1300,261.0,1299,401.0,4.0
+7,Precipitacion,Dia,0,897,170.0,891,234.0,2.0
+7,Precipitacion,Dia,1,923,150.0,918,203.0,1.0
+7,Precipitacion,Dia,2,990,153.0,989,206.0,0.0
+7,Precipitacion,Dia,3,230,41.0,230,60.0,0.0
+7,Precipitacion,Dia,4,346,79.0,345,112.0,0.0
+7,Precipitacion,Dia,6,600,119.0,596,170.0,2.0
+7,Seco,Dia,0,566,106.0,565,147.0,1.0
+7,Seco,Dia,1,587,107.0,587,156.0,1.0
+7,Seco,Dia,2,673,113.0,671,153.0,1.0
+7,Seco,Dia,3,879,163.0,875,231.0,1.0
+7,Seco,Dia,4,1006,179.0,1004,243.0,0.0
+7,Seco,Dia,5,1317,255.0,1314,381.0,7.0
+7,Seco,Dia,6,592,109.0,587,174.0,0.0
+8,Precipitacion,Dia,0,634,103.0,631,143.0,0.0
+8,Precipitacion,Dia,1,230,33.0,229,50.0,1.0
+8,Precipitacion,Dia,2,383,59.0,383,80.0,0.0
+8,Precipitacion,Dia,3,669,130.0,666,168.0,0.0
+8,Precipitacion,Dia,4,727,124.0,727,187.0,0.0
+8,Precipitacion,Dia,5,376,57.0,375,70.0,3.0
+8,Precipitacion,Dia,6,297,52.0,296,70.0,0.0
+8,Seco,Dia,0,517,81.0,516,108.0,0.0
+8,Seco,Dia,1,907,160.0,904,213.0,0.0
+8,Seco,Dia,2,891,147.0,890,218.0,1.0
+8,Seco,Dia,3,946,148.0,943,190.0,0.0
+8,Seco,Dia,4,1036,185.0,1033,250.0,0.0
+8,Seco,Dia,5,1356,248.0,1353,364.0,3.0
+8,Seco,Dia,6,955,191.0,950,287.0,2.0
+9,Precipitacion,Dia,1,399,61.0,398,86.0,0.0
+9,Precipitacion,Dia,3,326,66.0,326,79.0,0.0
+9,Precipitacion,Dia,4,720,121.0,717,168.0,0.0
+9,Precipitacion,Dia,5,269,34.0,268,44.0,0.0
+9,Precipitacion,Dia,6,323,62.0,322,100.0,0.0
+9,Seco,Dia,0,1457,237.0,1453,334.0,1.0
+9,Seco,Dia,1,997,183.0,995,241.0,0.0
+9,Seco,Dia,2,1383,227.0,1379,307.0,2.0
+9,Seco,Dia,3,1064,209.0,1062,293.0,0.0
+9,Seco,Dia,4,681,109.0,679,144.0,0.0
+9,Seco,Dia,5,969,174.0,966,235.0,4.0
+9,Seco,Dia,6,1228,235.0,1226,376.0,4.0
+10,Precipitacion,Dia,0,240,43.0,240,64.0,2.0
+10,Precipitacion,Dia,1,444,80.0,443,106.0,0.0
+10,Precipitacion,Dia,3,362,41.0,359,59.0,0.0
+10,Precipitacion,Dia,4,749,125.0,746,160.0,0.0
+10,Precipitacion,Dia,5,273,55.0,272,76.0,0.0
+10,Precipitacion,Dia,6,248,40.0,246,65.0,0.0
+10,Seco,Dia,0,883,168.0,881,231.0,0.0
+10,Seco,Dia,1,1209,218.0,1208,315.0,1.0
+10,Seco,Dia,2,1629,274.0,1627,372.0,2.0
+10,Seco,Dia,3,1317,232.0,1315,316.0,1.0
+10,Seco,Dia,4,746,128.0,744,177.0,0.0
+10,Seco,Dia,5,935,167.0,933,222.0,1.0
+10,Seco,Dia,6,856,151.0,852,219.0,4.0
+11,Nieve,Dia,3,572,75.0,572,92.0,0.0
+11,Precipitacion,Dia,0,970,151.0,970,201.0,1.0
+11,Precipitacion,Dia,1,644,111.0,643,151.0,2.0
+11,Precipitacion,Dia,2,326,57.0,326,73.0,0.0
+11,Precipitacion,Dia,3,343,73.0,342,90.0,0.0
+11,Precipitacion,Dia,6,779,130.0,777,197.0,2.0
+11,Seco,Dia,0,250,33.0,248,42.0,0.0
+11,Seco,Dia,1,604,81.0,604,105.0,0.0
+11,Seco,Dia,2,844,140.0,844,192.0,2.0
+11,Seco,Dia,3,501,77.0,500,112.0,0.0
+11,Seco,Dia,4,1545,218.0,1545,278.0,0.0
+11,Seco,Dia,5,1329,208.0,1324,339.0,3.0
+11,Seco,Dia,6,230,41.0,229,53.0,0.0
+12,Nieve,Dia,2,875,132.0,874,168.0,0.0
+12,Nieve,Dia,3,310,57.0,309,79.0,0.0
+12,Nieve,Dia,4,372,42.0,371,54.0,0.0
+12,Precipitacion,Dia,0,286,42.0,286,57.0,0.0
+12,Precipitacion,Dia,1,304,53.0,303,74.0,0.0
+12,Precipitacion,Dia,3,230,40.0,229,53.0,1.0
+12,Precipitacion,Dia,4,275,48.0,275,62.0,0.0
+12,Precipitacion,Dia,5,576,97.0,574,146.0,0.0
+12,Precipitacion,Dia,6,511,101.0,511,141.0,3.0
+12,Seco,Dia,0,1106,168.0,1103,253.0,1.0
+12,Seco,Dia,1,1064,155.0,1062,214.0,0.0
+12,Seco,Dia,2,161,28.0,161,47.0,0.0
+12,Seco,Dia,3,609,78.0,608,113.0,0.0
+12,Seco,Dia,4,753,95.0,753,116.0,0.0
+12,Seco,Dia,5,595,98.0,595,138.0,0.0
+12,Seco,Dia,6,762,112.0,760,165.0,1.0
+1,Nieve,Via,N CICERO AVE,30,5.0,30,5.0,0.0
+1,Nieve,Via,N WESTERN AVE,35,4.0,35,5.0,0.0
+1,Nieve,Via,OTRAS VIAS,3254,388.0,3243,513.0,1.0
+1,Nieve,Via,S ASHLAND AVE,51,10.0,51,14.0,0.0
+1,Nieve,Via,S CICERO AVE,38,6.0,38,6.0,0.0
+1,Nieve,Via,S HALSTED ST,56,9.0,56,14.0,0.0
+1,Nieve,Via,S KEDZIE AVE,42,8.0,42,14.0,0.0
+1,Nieve,Via,S PULASKI RD,52,11.0,52,17.0,0.0
+1,Nieve,Via,S WESTERN AVE,54,12.0,54,18.0,0.0
+1,Nieve,Via,W IRVING PARK RD,46,6.0,46,7.0,0.0
+1,Nieve,Via,W NORTH AVE,31,10.0,31,14.0,0.0
+1,Precipitacion,Via,N CICERO AVE,14,2.0,14,3.0,0.0
+1,Precipitacion,Via,N WESTERN AVE,15,2.0,15,2.0,0.0
+1,Precipitacion,Via,OTRAS VIAS,1244,189.0,1244,240.0,0.0
+1,Precipitacion,Via,S ASHLAND AVE,16,1.0,16,1.0,0.0
+1,Precipitacion,Via,S CICERO AVE,15,1.0,15,1.0,0.0
+1,Precipitacion,Via,S HALSTED ST,22,3.0,22,4.0,0.0
+1,Precipitacion,Via,S KEDZIE AVE,21,5.0,21,7.0,0.0
+1,Precipitacion,Via,S PULASKI RD,10,1.0,10,1.0,0.0
+1,Precipitacion,Via,S WESTERN AVE,24,4.0,24,6.0,0.0
+1,Precipitacion,Via,W IRVING PARK RD,9,1.0,9,1.0,0.0
+1,Precipitacion,Via,W NORTH AVE,18,3.0,18,3.0,0.0
+1,Seco,Via,N CICERO AVE,36,10.0,36,14.0,0.0
+1,Seco,Via,N WESTERN AVE,36,5.0,35,7.0,0.0
+1,Seco,Via,OTRAS VIAS,2713,389.0,2709,555.0,2.0
+1,Seco,Via,S ASHLAND AVE,44,10.0,44,12.0,0.0
+1,Seco,Via,S CICERO AVE,51,5.0,51,5.0,0.0
+1,Seco,Via,S HALSTED ST,56,11.0,56,14.0,1.0
+1,Seco,Via,S KEDZIE AVE,35,5.0,35,6.0,0.0
+1,Seco,Via,S PULASKI RD,45,11.0,45,23.0,0.0
+1,Seco,Via,S WESTERN AVE,51,9.0,51,10.0,0.0
+1,Seco,Via,W IRVING PARK RD,31,4.0,31,5.0,0.0
+1,Seco,Via,W NORTH AVE,40,8.0,40,12.0,0.0
+2,Nieve,Via,N CICERO AVE,9,0.0,9,0.0,0.0
+2,Nieve,Via,N WESTERN AVE,14,3.0,14,4.0,0.0
+2,Nieve,Via,OTRAS VIAS,740,97.0,740,126.0,0.0
+2,Nieve,Via,S ASHLAND AVE,13,6.0,13,9.0,0.0
+2,Nieve,Via,S CICERO AVE,8,2.0,8,2.0,0.0
+2,Nieve,Via,S HALSTED ST,5,0.0,5,0.0,0.0
+2,Nieve,Via,S KEDZIE AVE,10,1.0,10,1.0,0.0
+2,Nieve,Via,S PULASKI RD,8,2.0,8,2.0,0.0
+2,Nieve,Via,S WESTERN AVE,16,4.0,16,5.0,0.0
+2,Nieve,Via,W IRVING PARK RD,6,3.0,6,5.0,0.0
+2,Nieve,Via,W NORTH AVE,13,2.0,13,2.0,0.0
+2,Precipitacion,Via,N CICERO AVE,10,2.0,10,2.0,0.0
+2,Precipitacion,Via,N WESTERN AVE,10,1.0,10,1.0,0.0
+2,Precipitacion,Via,OTRAS VIAS,770,114.0,768,156.0,1.0
+2,Precipitacion,Via,S ASHLAND AVE,14,1.0,14,1.0,0.0
+2,Precipitacion,Via,S CICERO AVE,11,1.0,11,1.0,0.0
+2,Precipitacion,Via,S HALSTED ST,13,1.0,13,2.0,0.0
+2,Precipitacion,Via,S KEDZIE AVE,5,1.0,5,1.0,0.0
+2,Precipitacion,Via,S PULASKI RD,12,4.0,12,4.0,1.0
+2,Precipitacion,Via,S WESTERN AVE,16,0.0,16,0.0,0.0
+2,Precipitacion,Via,W IRVING PARK RD,6,1.0,6,1.0,0.0
+2,Precipitacion,Via,W NORTH AVE,8,1.0,8,1.0,0.0
+2,Seco,Via,N CICERO AVE,68,16.0,68,30.0,0.0
+2,Seco,Via,N WESTERN AVE,67,9.0,67,9.0,0.0
+2,Seco,Via,OTRAS VIAS,5249,848.0,5238,1146.0,5.0
+2,Seco,Via,S ASHLAND AVE,89,17.0,89,26.0,0.0
+2,Seco,Via,S CICERO AVE,89,12.0,89,19.0,0.0
+2,Seco,Via,S HALSTED ST,87,15.0,87,20.0,0.0
+2,Seco,Via,S KEDZIE AVE,90,6.0,90,8.0,0.0
+2,Seco,Via,S PULASKI RD,117,19.0,117,37.0,1.0
+2,Seco,Via,S WESTERN AVE,102,21.0,102,33.0,0.0
+2,Seco,Via,W IRVING PARK RD,65,11.0,65,17.0,0.0
+2,Seco,Via,W NORTH AVE,60,11.0,60,14.0,0.0
+3,Nieve,Via,N CICERO AVE,5,1.0,5,2.0,0.0
+3,Nieve,Via,N WESTERN AVE,5,2.0,5,2.0,0.0
+3,Nieve,Via,OTRAS VIAS,277,45.0,276,55.0,0.0
+3,Nieve,Via,S ASHLAND AVE,9,1.0,9,2.0,0.0
+3,Nieve,Via,S CICERO AVE,3,0.0,3,0.0,0.0
+3,Nieve,Via,S HALSTED ST,4,1.0,4,1.0,0.0
+3,Nieve,Via,S KEDZIE AVE,5,0.0,5,0.0,0.0
+3,Nieve,Via,S PULASKI RD,8,3.0,8,7.0,0.0
+3,Nieve,Via,S WESTERN AVE,4,1.0,4,1.0,0.0
+3,Nieve,Via,W IRVING PARK RD,4,0.0,4,0.0,0.0
+3,Nieve,Via,W NORTH AVE,2,0.0,2,0.0,0.0
+3,Precipitacion,Via,N CICERO AVE,30,5.0,30,5.0,0.0
+3,Precipitacion,Via,N WESTERN AVE,34,6.0,34,6.0,0.0
+3,Precipitacion,Via,OTRAS VIAS,2455,379.0,2449,508.0,2.0
+3,Precipitacion,Via,S ASHLAND AVE,52,10.0,52,10.0,0.0
+3,Precipitacion,Via,S CICERO AVE,30,5.0,30,12.0,0.0
+3,Precipitacion,Via,S HALSTED ST,43,14.0,43,24.0,1.0
+3,Precipitacion,Via,S KEDZIE AVE,41,4.0,41,4.0,0.0
+3,Precipitacion,Via,S PULASKI RD,34,7.0,34,10.0,1.0
+3,Precipitacion,Via,S WESTERN AVE,60,7.0,60,11.0,0.0
+3,Precipitacion,Via,W IRVING PARK RD,36,7.0,36,8.0,1.0
+3,Precipitacion,Via,W NORTH AVE,25,7.0,25,11.0,0.0
+3,Seco,Via,N CICERO AVE,47,2.0,47,3.0,0.0
+3,Seco,Via,N WESTERN AVE,69,8.0,68,9.0,0.0
+3,Seco,Via,OTRAS VIAS,5091,783.0,5082,1137.0,7.0
+3,Seco,Via,S ASHLAND AVE,89,22.0,89,31.0,0.0
+3,Seco,Via,S CICERO AVE,57,6.0,57,7.0,0.0
+3,Seco,Via,S HALSTED ST,73,8.0,73,15.0,0.0
+3,Seco,Via,S KEDZIE AVE,54,4.0,54,5.0,0.0
+3,Seco,Via,S PULASKI RD,63,4.0,63,7.0,0.0
+3,Seco,Via,S WESTERN AVE,107,15.0,107,29.0,1.0
+3,Seco,Via,W IRVING PARK RD,51,12.0,51,17.0,0.0
+3,Seco,Via,W NORTH AVE,60,9.0,60,16.0,1.0
+4,Nieve,Via,N CICERO AVE,7,2.0,7,3.0,0.0
+4,Nieve,Via,N WESTERN AVE,8,1.0,8,1.0,0.0
+4,Nieve,Via,OTRAS VIAS,571,74.0,570,90.0,1.0
+4,Nieve,Via,S ASHLAND AVE,10,4.0,10,4.0,0.0
+4,Nieve,Via,S CICERO AVE,9,3.0,9,6.0,0.0
+4,Nieve,Via,S HALSTED ST,10,1.0,10,1.0,0.0
+4,Nieve,Via,S KEDZIE AVE,9,2.0,9,2.0,0.0
+4,Nieve,Via,S PULASKI RD,19,3.0,19,3.0,0.0
+4,Nieve,Via,S WESTERN AVE,10,3.0,10,3.0,0.0
+4,Nieve,Via,W IRVING PARK RD,5,2.0,5,2.0,0.0
+4,Nieve,Via,W NORTH AVE,6,0.0,6,0.0,0.0
+4,Precipitacion,Via,N CICERO AVE,44,9.0,44,11.0,0.0
+4,Precipitacion,Via,N WESTERN AVE,53,8.0,53,11.0,0.0
+4,Precipitacion,Via,OTRAS VIAS,3447,553.0,3436,773.0,0.0
+4,Precipitacion,Via,S ASHLAND AVE,63,6.0,61,6.0,0.0
+4,Precipitacion,Via,S CICERO AVE,50,6.0,50,8.0,0.0
+4,Precipitacion,Via,S HALSTED ST,60,10.0,60,13.0,0.0
+4,Precipitacion,Via,S KEDZIE AVE,57,13.0,57,14.0,0.0
+4,Precipitacion,Via,S PULASKI RD,69,11.0,69,14.0,0.0
+4,Precipitacion,Via,S WESTERN AVE,72,21.0,72,30.0,0.0
+4,Precipitacion,Via,W IRVING PARK RD,48,5.0,48,8.0,0.0
+4,Precipitacion,Via,W NORTH AVE,45,6.0,45,7.0,0.0
+4,Seco,Via,N CICERO AVE,56,9.0,56,22.0,0.0
+4,Seco,Via,N WESTERN AVE,47,8.0,47,8.0,0.0
+4,Seco,Via,OTRAS VIAS,4008,620.0,3998,865.0,3.0
+4,Seco,Via,S ASHLAND AVE,61,11.0,61,17.0,0.0
+4,Seco,Via,S CICERO AVE,51,6.0,51,11.0,0.0
+4,Seco,Via,S HALSTED ST,58,7.0,58,12.0,0.0
+4,Seco,Via,S KEDZIE AVE,69,13.0,69,25.0,0.0
+4,Seco,Via,S PULASKI RD,73,17.0,73,22.0,1.0
+4,Seco,Via,S WESTERN AVE,62,10.0,62,12.0,0.0
+4,Seco,Via,W IRVING PARK RD,45,8.0,45,10.0,0.0
+4,Seco,Via,W NORTH AVE,52,10.0,52,11.0,0.0
+5,Precipitacion,Via,N CICERO AVE,48,10.0,48,11.0,0.0
+5,Precipitacion,Via,N WESTERN AVE,56,7.0,56,8.0,0.0
+5,Precipitacion,Via,OTRAS VIAS,3849,628.0,3840,888.0,2.0
+5,Precipitacion,Via,S ASHLAND AVE,57,8.0,57,11.0,0.0
+5,Precipitacion,Via,S CICERO AVE,45,7.0,45,8.0,0.0
+5,Precipitacion,Via,S HALSTED ST,75,18.0,75,22.0,0.0
+5,Precipitacion,Via,S KEDZIE AVE,55,11.0,54,15.0,0.0
+5,Precipitacion,Via,S PULASKI RD,67,15.0,67,24.0,0.0
+5,Precipitacion,Via,S WESTERN AVE,53,11.0,53,18.0,0.0
+5,Precipitacion,Via,W IRVING PARK RD,47,9.0,46,11.0,0.0
+5,Precipitacion,Via,W NORTH AVE,54,12.0,54,13.0,0.0
+5,Seco,Via,N CICERO AVE,56,11.0,56,14.0,0.0
+5,Seco,Via,N WESTERN AVE,83,10.0,82,15.0,0.0
+5,Seco,Via,OTRAS VIAS,5514,955.0,5504,1307.0,13.0
+5,Seco,Via,S ASHLAND AVE,102,20.0,102,24.0,0.0
+5,Seco,Via,S CICERO AVE,90,16.0,90,17.0,0.0
+5,Seco,Via,S HALSTED ST,95,22.0,95,37.0,1.0
+5,Seco,Via,S KEDZIE AVE,71,10.0,71,12.0,0.0
+5,Seco,Via,S PULASKI RD,92,16.0,92,30.0,0.0
+5,Seco,Via,S WESTERN AVE,99,18.0,99,25.0,0.0
+5,Seco,Via,W IRVING PARK RD,75,8.0,74,12.0,0.0
+5,Seco,Via,W NORTH AVE,59,11.0,59,13.0,0.0
+6,Precipitacion,Via,N CICERO AVE,39,9.0,39,10.0,0.0
+6,Precipitacion,Via,N WESTERN AVE,61,12.0,61,16.0,0.0
+6,Precipitacion,Via,OTRAS VIAS,3297,555.0,3295,778.0,1.0
+6,Precipitacion,Via,S ASHLAND AVE,49,10.0,49,14.0,0.0
+6,Precipitacion,Via,S CICERO AVE,46,5.0,46,5.0,0.0
+6,Precipitacion,Via,S HALSTED ST,61,10.0,61,16.0,2.0
+6,Precipitacion,Via,S KEDZIE AVE,37,7.0,37,7.0,0.0
+6,Precipitacion,Via,S PULASKI RD,45,8.0,45,10.0,0.0
+6,Precipitacion,Via,S WESTERN AVE,54,11.0,54,13.0,0.0
+6,Precipitacion,Via,W IRVING PARK RD,46,2.0,46,4.0,0.0
+6,Precipitacion,Via,W NORTH AVE,45,8.0,44,9.0,0.0
+6,Seco,Via,N CICERO AVE,58,12.0,58,15.0,0.0
+6,Seco,Via,N WESTERN AVE,70,9.0,70,12.0,0.0
+6,Seco,Via,OTRAS VIAS,5601,963.0,5589,1380.0,7.0
+6,Seco,Via,S ASHLAND AVE,88,17.0,88,25.0,0.0
+6,Seco,Via,S CICERO AVE,68,12.0,68,24.0,0.0
+6,Seco,Via,S HALSTED ST,83,21.0,83,32.0,1.0
+6,Seco,Via,S KEDZIE AVE,74,16.0,74,27.0,1.0
+6,Seco,Via,S PULASKI RD,82,15.0,82,19.0,0.0
+6,Seco,Via,S WESTERN AVE,89,17.0,88,29.0,0.0
+6,Seco,Via,W IRVING PARK RD,73,12.0,73,15.0,0.0
+6,Seco,Via,W NORTH AVE,70,16.0,70,25.0,0.0
+7,Precipitacion,Via,N CICERO AVE,41,7.0,41,10.0,0.0
+7,Precipitacion,Via,N WESTERN AVE,34,8.0,34,12.0,0.0
+7,Precipitacion,Via,OTRAS VIAS,3507,604.0,3491,831.0,5.0
+7,Precipitacion,Via,S ASHLAND AVE,49,15.0,49,22.0,0.0
+7,Precipitacion,Via,S CICERO AVE,47,8.0,47,13.0,0.0
+7,Precipitacion,Via,S HALSTED ST,57,15.0,56,19.0,0.0
+7,Precipitacion,Via,S KEDZIE AVE,49,11.0,49,17.0,0.0
+7,Precipitacion,Via,S PULASKI RD,50,13.0,50,19.0,0.0
+7,Precipitacion,Via,S WESTERN AVE,60,13.0,60,19.0,0.0
+7,Precipitacion,Via,W IRVING PARK RD,46,10.0,46,14.0,0.0
+7,Precipitacion,Via,W NORTH AVE,46,8.0,46,9.0,0.0
+7,Seco,Via,N CICERO AVE,50,14.0,50,18.0,0.0
+7,Seco,Via,N WESTERN AVE,66,16.0,66,26.0,0.0
+7,Seco,Via,OTRAS VIAS,4895,884.0,4879,1277.0,11.0
+7,Seco,Via,S ASHLAND AVE,72,14.0,72,25.0,0.0
+7,Seco,Via,S CICERO AVE,88,14.0,88,19.0,0.0
+7,Seco,Via,S HALSTED ST,84,19.0,84,28.0,0.0
+7,Seco,Via,S KEDZIE AVE,61,14.0,60,16.0,0.0
+7,Seco,Via,S PULASKI RD,76,19.0,76,28.0,0.0
+7,Seco,Via,S WESTERN AVE,87,12.0,87,15.0,0.0
+7,Seco,Via,W IRVING PARK RD,67,14.0,67,20.0,0.0
+7,Seco,Via,W NORTH AVE,74,12.0,74,13.0,0.0
+8,Precipitacion,Via,N CICERO AVE,35,2.0,35,3.0,0.0
+8,Precipitacion,Via,N WESTERN AVE,35,8.0,35,10.0,0.0
+8,Precipitacion,Via,OTRAS VIAS,2865,474.0,2857,656.0,3.0
+8,Precipitacion,Via,S ASHLAND AVE,50,15.0,49,19.0,1.0
+8,Precipitacion,Via,S CICERO AVE,42,6.0,42,8.0,0.0
+8,Precipitacion,Via,S HALSTED ST,45,12.0,45,21.0,0.0
+8,Precipitacion,Via,S KEDZIE AVE,55,10.0,55,14.0,0.0
+8,Precipitacion,Via,S PULASKI RD,44,9.0,44,11.0,0.0
+8,Precipitacion,Via,S WESTERN AVE,59,9.0,59,12.0,0.0
+8,Precipitacion,Via,W IRVING PARK RD,42,3.0,42,4.0,0.0
+8,Precipitacion,Via,W NORTH AVE,44,10.0,44,10.0,0.0
+8,Seco,Via,N CICERO AVE,69,10.0,69,19.0,0.0
+8,Seco,Via,N WESTERN AVE,68,12.0,68,22.0,0.0
+8,Seco,Via,OTRAS VIAS,5794,1013.0,5775,1403.0,5.0
+8,Seco,Via,S ASHLAND AVE,91,27.0,91,48.0,0.0
+8,Seco,Via,S CICERO AVE,62,13.0,62,15.0,1.0
+8,Seco,Via,S HALSTED ST,83,19.0,83,25.0,0.0
+8,Seco,Via,S KEDZIE AVE,99,15.0,99,15.0,0.0
+8,Seco,Via,S PULASKI RD,93,15.0,93,24.0,0.0
+8,Seco,Via,S WESTERN AVE,101,15.0,101,24.0,0.0
+8,Seco,Via,W IRVING PARK RD,66,9.0,66,20.0,0.0
+8,Seco,Via,W NORTH AVE,82,12.0,82,15.0,0.0
+9,Precipitacion,Via,N CICERO AVE,30,6.0,30,7.0,0.0
+9,Precipitacion,Via,N WESTERN AVE,19,2.0,19,2.0,0.0
+9,Precipitacion,Via,OTRAS VIAS,1770,295.0,1764,408.0,0.0
+9,Precipitacion,Via,S ASHLAND AVE,21,4.0,21,6.0,0.0
+9,Precipitacion,Via,S CICERO AVE,23,3.0,23,4.0,0.0
+9,Precipitacion,Via,S HALSTED ST,24,3.0,24,4.0,0.0
+9,Precipitacion,Via,S KEDZIE AVE,35,8.0,35,12.0,0.0
+9,Precipitacion,Via,S PULASKI RD,33,10.0,33,17.0,0.0
+9,Precipitacion,Via,S WESTERN AVE,30,7.0,30,10.0,0.0
+9,Precipitacion,Via,W IRVING PARK RD,30,3.0,30,4.0,0.0
+9,Precipitacion,Via,W NORTH AVE,22,3.0,22,3.0,0.0
+9,Seco,Via,N CICERO AVE,85,17.0,85,30.0,0.0
+9,Seco,Via,N WESTERN AVE,87,15.0,87,19.0,0.0
+9,Seco,Via,OTRAS VIAS,6728,1174.0,6710,1654.0,9.0
+9,Seco,Via,S ASHLAND AVE,107,23.0,107,30.0,0.0
+9,Seco,Via,S CICERO AVE,112,18.0,112,26.0,1.0
+9,Seco,Via,S HALSTED ST,111,26.0,110,30.0,0.0
+9,Seco,Via,S KEDZIE AVE,112,25.0,112,38.0,0.0
+9,Seco,Via,S PULASKI RD,125,23.0,125,36.0,0.0
+9,Seco,Via,S WESTERN AVE,142,25.0,142,38.0,1.0
+9,Seco,Via,W IRVING PARK RD,78,13.0,78,14.0,0.0
+9,Seco,Via,W NORTH AVE,92,15.0,92,15.0,0.0
+10,Precipitacion,Via,N CICERO AVE,32,3.0,32,4.0,0.0
+10,Precipitacion,Via,N WESTERN AVE,24,4.0,24,6.0,0.0
+10,Precipitacion,Via,OTRAS VIAS,2009,334.0,1999,456.0,2.0
+10,Precipitacion,Via,S ASHLAND AVE,37,10.0,37,15.0,0.0
+10,Precipitacion,Via,S CICERO AVE,34,2.0,34,2.0,0.0
+10,Precipitacion,Via,S HALSTED ST,29,10.0,29,19.0,0.0
+10,Precipitacion,Via,S KEDZIE AVE,24,2.0,24,3.0,0.0
+10,Precipitacion,Via,S PULASKI RD,34,8.0,34,11.0,0.0
+10,Precipitacion,Via,S WESTERN AVE,45,7.0,45,9.0,0.0
+10,Precipitacion,Via,W IRVING PARK RD,26,2.0,26,3.0,0.0
+10,Precipitacion,Via,W NORTH AVE,22,2.0,22,2.0,0.0
+10,Seco,Via,N CICERO AVE,80,16.0,80,26.0,0.0
+10,Seco,Via,N WESTERN AVE,108,13.0,108,17.0,0.0
+10,Seco,Via,OTRAS VIAS,6547,1151.0,6532,1595.0,7.0
+10,Seco,Via,S ASHLAND AVE,129,27.0,129,43.0,2.0
+10,Seco,Via,S CICERO AVE,94,21.0,94,30.0,0.0
+10,Seco,Via,S HALSTED ST,109,14.0,109,20.0,0.0
+10,Seco,Via,S KEDZIE AVE,96,12.0,96,15.0,0.0
+10,Seco,Via,S PULASKI RD,114,24.0,114,31.0,0.0
+10,Seco,Via,S WESTERN AVE,106,21.0,106,26.0,0.0
+10,Seco,Via,W IRVING PARK RD,101,23.0,101,30.0,0.0
+10,Seco,Via,W NORTH AVE,91,16.0,91,19.0,0.0
+11,Nieve,Via,N CICERO AVE,3,2.0,3,4.0,0.0
+11,Nieve,Via,N WESTERN AVE,7,1.0,7,1.0,0.0
+11,Nieve,Via,OTRAS VIAS,501,65.0,501,75.0,0.0
+11,Nieve,Via,S ASHLAND AVE,11,1.0,11,3.0,0.0
+11,Nieve,Via,S CICERO AVE,7,0.0,7,0.0,0.0
+11,Nieve,Via,S HALSTED ST,8,0.0,8,0.0,0.0
+11,Nieve,Via,S KEDZIE AVE,10,3.0,10,5.0,0.0
+11,Nieve,Via,S PULASKI RD,4,0.0,4,0.0,0.0
+11,Nieve,Via,S WESTERN AVE,10,1.0,10,2.0,0.0
+11,Nieve,Via,W IRVING PARK RD,8,0.0,8,0.0,0.0
+11,Nieve,Via,W NORTH AVE,3,2.0,3,2.0,0.0
+11,Precipitacion,Via,N CICERO AVE,39,4.0,39,7.0,0.0
+11,Precipitacion,Via,N WESTERN AVE,35,6.0,35,7.0,0.0
+11,Precipitacion,Via,OTRAS VIAS,2646,460.0,2642,629.0,5.0
+11,Precipitacion,Via,S ASHLAND AVE,57,8.0,57,9.0,0.0
+11,Precipitacion,Via,S CICERO AVE,43,10.0,43,14.0,0.0
+11,Precipitacion,Via,S HALSTED ST,41,8.0,41,10.0,0.0
+11,Precipitacion,Via,S KEDZIE AVE,43,4.0,43,9.0,0.0
+11,Precipitacion,Via,S PULASKI RD,42,2.0,42,3.0,0.0
+11,Precipitacion,Via,S WESTERN AVE,41,7.0,41,9.0,0.0
+11,Precipitacion,Via,W IRVING PARK RD,33,2.0,33,2.0,0.0
+11,Precipitacion,Via,W NORTH AVE,42,11.0,42,13.0,0.0
+11,Seco,Via,N CICERO AVE,56,8.0,56,14.0,0.0
+11,Seco,Via,N WESTERN AVE,63,6.0,63,7.0,0.0
+11,Seco,Via,OTRAS VIAS,4576,667.0,4568,930.0,4.0
+11,Seco,Via,S ASHLAND AVE,80,15.0,80,20.0,0.0
+11,Seco,Via,S CICERO AVE,72,15.0,72,24.0,0.0
+11,Seco,Via,S HALSTED ST,78,22.0,78,31.0,0.0
+11,Seco,Via,S KEDZIE AVE,71,13.0,71,15.0,0.0
+11,Seco,Via,S PULASKI RD,102,20.0,101,35.0,1.0
+11,Seco,Via,S WESTERN AVE,82,10.0,82,10.0,0.0
+11,Seco,Via,W IRVING PARK RD,59,12.0,59,18.0,0.0
+11,Seco,Via,W NORTH AVE,64,10.0,64,17.0,0.0
+12,Nieve,Via,N CICERO AVE,17,1.0,17,1.0,0.0
+12,Nieve,Via,N WESTERN AVE,23,2.0,23,3.0,0.0
+12,Nieve,Via,OTRAS VIAS,1347,194.0,1344,254.0,0.0
+12,Nieve,Via,S ASHLAND AVE,24,9.0,24,15.0,0.0
+12,Nieve,Via,S CICERO AVE,16,3.0,16,3.0,0.0
+12,Nieve,Via,S HALSTED ST,20,5.0,20,5.0,0.0
+12,Nieve,Via,S KEDZIE AVE,21,1.0,21,2.0,0.0
+12,Nieve,Via,S PULASKI RD,34,3.0,34,3.0,0.0
+12,Nieve,Via,S WESTERN AVE,22,6.0,22,7.0,0.0
+12,Nieve,Via,W IRVING PARK RD,14,3.0,14,4.0,0.0
+12,Nieve,Via,W NORTH AVE,19,4.0,19,4.0,0.0
+12,Precipitacion,Via,N CICERO AVE,25,4.0,25,5.0,0.0
+12,Precipitacion,Via,N WESTERN AVE,30,9.0,30,9.0,0.0
+12,Precipitacion,Via,OTRAS VIAS,1920,330.0,1917,468.0,2.0
+12,Precipitacion,Via,S ASHLAND AVE,24,6.0,24,6.0,0.0
+12,Precipitacion,Via,S CICERO AVE,26,3.0,26,3.0,0.0
+12,Precipitacion,Via,S HALSTED ST,26,4.0,25,6.0,0.0
+12,Precipitacion,Via,S KEDZIE AVE,28,5.0,28,7.0,0.0
+12,Precipitacion,Via,S PULASKI RD,32,6.0,32,7.0,0.0
+12,Precipitacion,Via,S WESTERN AVE,30,7.0,30,8.0,0.0
+12,Precipitacion,Via,W IRVING PARK RD,24,3.0,24,7.0,2.0
+12,Precipitacion,Via,W NORTH AVE,17,4.0,17,7.0,0.0
+12,Seco,Via,N CICERO AVE,66,8.0,66,10.0,0.0
+12,Seco,Via,N WESTERN AVE,62,6.0,62,8.0,0.0
+12,Seco,Via,OTRAS VIAS,4343,630.0,4336,906.0,2.0
+12,Seco,Via,S ASHLAND AVE,84,11.0,83,20.0,0.0
+12,Seco,Via,S CICERO AVE,73,10.0,73,17.0,0.0
+12,Seco,Via,S HALSTED ST,79,21.0,79,26.0,0.0
+12,Seco,Via,S KEDZIE AVE,69,10.0,69,13.0,0.0
+12,Seco,Via,S PULASKI RD,73,7.0,73,7.0,0.0
+12,Seco,Via,S WESTERN AVE,93,16.0,93,21.0,0.0
+12,Seco,Via,W IRVING PARK RD,59,8.0,59,9.0,0.0
+12,Seco,Via,W NORTH AVE,49,7.0,49,9.0,0.0
+1,Nieve,Total,Total,3689,469.0,3678,627.0,1.0
+1,Precipitacion,Total,Total,1408,212.0,1408,269.0,0.0
+1,Seco,Total,Total,3138,467.0,3133,663.0,3.0
+2,Nieve,Total,Total,842,120.0,842,156.0,0.0
+2,Precipitacion,Total,Total,875,127.0,873,170.0,2.0
+2,Seco,Total,Total,6083,985.0,6072,1359.0,6.0
+3,Nieve,Total,Total,326,54.0,325,70.0,0.0
+3,Precipitacion,Total,Total,2840,451.0,2834,609.0,5.0
+3,Seco,Total,Total,5761,873.0,5751,1276.0,9.0
+4,Nieve,Total,Total,664,95.0,663,115.0,1.0
+4,Precipitacion,Total,Total,4008,648.0,3995,895.0,0.0
+4,Seco,Total,Total,4582,719.0,4572,1015.0,4.0
+5,Precipitacion,Total,Total,4406,736.0,4395,1029.0,2.0
+5,Seco,Total,Total,6336,1097.0,6324,1506.0,14.0
+6,Precipitacion,Total,Total,3780,637.0,3777,882.0,3.0
+6,Seco,Total,Total,6356,1110.0,6343,1603.0,9.0
+7,Precipitacion,Total,Total,3986,712.0,3969,985.0,5.0
+7,Seco,Total,Total,5620,1032.0,5603,1485.0,11.0
+8,Precipitacion,Total,Total,3316,558.0,3307,768.0,4.0
+8,Seco,Total,Total,6608,1160.0,6589,1630.0,6.0
+9,Precipitacion,Total,Total,2037,344.0,2031,477.0,0.0
+9,Seco,Total,Total,7779,1374.0,7760,1930.0,11.0
+10,Precipitacion,Total,Total,2316,384.0,2306,530.0,2.0
+10,Seco,Total,Total,7575,1338.0,7560,1852.0,9.0
+11,Nieve,Total,Total,572,75.0,572,92.0,0.0
+11,Precipitacion,Total,Total,3062,522.0,3058,712.0,5.0
+11,Seco,Total,Total,5303,798.0,5294,1121.0,5.0
+12,Nieve,Total,Total,1557,231.0,1554,301.0,0.0
+12,Precipitacion,Total,Total,2182,381.0,2178,533.0,4.0
+12,Seco,Total,Total,5050,734.0,5042,1046.0,2.0

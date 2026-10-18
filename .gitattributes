@@ -1,0 +1,2 @@
+# Preserve source bytes so SHA-256 checks remain valid after cloning on Windows.
+data/raw/** -text

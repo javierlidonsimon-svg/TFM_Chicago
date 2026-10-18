@@ -1,0 +1,18 @@
+{
+  "archivo": "open_meteo_chicago_2024.csv",
+  "origen": "open_meteo_chicago_2024.json",
+  "operacion": "Serialización del bloque daily a CSV. Mismos nombres, orden y valores; sin limpieza ni variables derivadas.",
+  "sha256_origen": "37e9c54ac0bb9c3483a4fec615034a4c8f206bb684f15b5fb875bd4902fe6765",
+  "sha256_csv": "52048740e8ec23ec91d62197f67f591f6e9806347d1d608afac3c1510730cd64",
+  "unidades": {
+    "time": "iso8601",
+    "temperature_2m_mean": "°C",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C",
+    "precipitation_sum": "mm",
+    "rain_sum": "mm",
+    "snowfall_sum": "cm",
+    "wind_speed_10m_max": "km/h",
+    "wind_gusts_10m_max": "km/h"
+  }
+}

@@ -1,0 +1,8 @@
+dia_semana_num,dia_semana,accidentes,con_lesiones,lesion_conocida,personas_lesionadas,fallecidos,graves_o_mortales
+0,Lunes,15258,2471.0,15219,3451.0,12,222.0
+1,Martes,16060,2586.0,16024,3549.0,18,223.0
+2,Miércoles,15958,2575.0,15935,3480.0,13,219.0
+3,Jueves,16257,2660.0,16224,3586.0,11,190.0
+4,Viernes,17702,2784.0,17672,3755.0,6,270.0
+5,Sábado,16333,2730.0,16286,3953.0,26,305.0
+6,Domingo,14489,2637.0,14448,3932.0,37,310.0
